@@ -1,6 +1,2427 @@
-_, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
+if game.PlaceId == 9570110925 then
 
 
-,nil,nil;(function() _msec=(function(e,d,l)local T=d["           ​"];local z=l[e[(-38+0x2bb)]][e["  ​   ​     "]];local f=(116-0x70)/(33-(0x4e-(9400/0xc8)))local r=(((1248900/0x4b)/181)-90)-(53-0x34)local G=l[e[(0x1a5-(0x133+-68))]][e["             "]];local M=(((19929/0x49)-196)-0x4c)+(-0x64+102)local P=l[e[(0x2e05/21)]][e["                  "]]local o=(0x1d-27)-(24-((-102+0xde)-97))local k=((((0x427-581)-265)+-0x69)-0x6e)local v=(125-(0x43bf/((0x20fb7a/146)/0x69)))local c=(((0x55b4-(11082+-0x4d))/0x87)-79)local u=(-107+((0x13be+(-0x118/7))/0x2e))local j=(336/(222+((0x37-61)-48)))local i=(0x81-(0x25b4/((13340/0x3a)-154)))local E=(((-16444-((-40+-0x51)+-8074))/0x71)+0x4d)local V=((167-((-85+0x194)-0xbb))-0x1f)local F=(74+((-0x18074/(0xa7-93))/19))local S=((-0x1b+((-12840/0x6b)+186))-35)local N=(-0x39+(0xaf+(-0x1008/(0x1d1c/207))))local W=((39480/((0xc4dc/172)-0xc7))/105)local t=(0x79-((0x1db-(0x142+-60))+-95))local h=((((111-0x64)-42)+0x5a)-0x38)local _=(((773-((2005-0x423)-0x1f6))-0xc4)-130)local p=((0x747/((0x125+(-8424/0x48))-149))-0x42)local b=(-30+(0x95+(-0x54+(-3744/0x75))))local s=(0x5d+(((-2796720/0xac)+-30)/181))local C=e[(0x357e0/(0x9210/228))];local K=l[e[(385-0xcb)]][e["            "]];local R=l[(function(e)return type(e):sub(1,1)..'\101\116'end)('      ​ ')..'\109\101'..('\116\97'or'  ​     ')..e[(0xf10e/110)]];local w=l[e[(1197-0x27c)]][e["   ​          "]];local Y=l[type("\199\15\105\100")]["\102\105"..(function()return ____ and"\93\102"or"\110"end)().."\100"](l[type('\199\15\105\100')]['\100\117'..(function()return#{_return}and'\180\100\158'=="\18\100\158"or('\109')end)().."\112"](l["_".."\109\115\101\99"]),'\112\114'..(function()return _F or'\105\110'or'\199\109'end)()..'\116')and(0xbf-157)or(0x17a/189)-((17262/(0x17a-241))-124)local m=((((-0xafab+22466)+-0x49)/213)+108)-(0x16-20)local Q=l[e[(0x190-218)]][e["               "]];local n=function(l,e)return l..e end local B=(748/0xbb)*((1+((-43+-0x10)+-0x42))+0x80)local L=l[e["                 "]];local a=(0x8c/70)*(-0x71+((0x467-624)-262))local J=((4288-0x88d)-1075)*((0x1e30/(0x7e-84))/92)local X=((0x4e7f-(10150+-0x27))/0xc0)local g=(((0x1f6-300)+-96)+-0x68)*(119-0x75)local y=l[e["      ​     "]]or l[e[(643+-0x52)]][e["      ​     "]];local x=(0xa100/(368-(0x2fb5/59)))local e=l[e[" ​   ​   "]];local P=(function(a)local x,d=3,0x10 local l={j={},v={}}local n=-o local e=d+r while true do l[a:sub(e,(function()e=x+e return e-r end)())]=(function()n=n+o return n end)()if n==(B-o)then n=""d=Y break end end local n=#a while e<n+r do l.v[d]=a:sub(e,(function()e=x+e return e-r end)())d=d+o if d%f==Y then d=m w(l.j,(Q((l[l.v[m]]*B)+l[l.v[o]])))end end return P(l.j)end)("..:::MoonSec::..                ​  ​ ​             ​                             ​      ​          ​                         ​​​                                                ​                         ​                   ​                 ​      ​                   ​          ​                     ​           ​  ​        ​                           ​    ​                          ​             ​ ​     ​              ​                         ​                                                  ​                     ​                ​                                ​                                                    ​                                               ​                                              ​                                    ​        ​​  ​                      ​                 ​                 ​                      ​ ​        ​         ​                        ​  ​                            ​             ​      ​            ​​                                ​               ​          ​                      ​                  ​            ​​        ​                           ​                 ​                                       ​ ​         ​          ​  ​     ​                              ​            ​                                   ​                                    ​​​                   ​                        ​ ​                      ​                      ​               ​                                  ​                                              ​  ​                                       ​    ​                           ​             ​ ​        ​          ​   ​                   ​                ​                              ​​    ​                                       ​                                                                                                       ​              ​                        ​       ​      ​                                   ​​​​          ​                      ​        ​                          ​                   ​ ​              ​                            ​  ​                                                ​ ​      ​                                 ​        ​ ​                          ​                  ​​                   ​                      ​​            ​                              ​    ​                                  ​    ​                                                  ​                                      ​      ​                                               ​      ​                                     ​​​         ​                          ​         ​     ​                                      ​                       ​   ​          ​                  ​                            ​          ​                        ​                       ​          ​​                  ​             ​         ​                      ​ ​                       ​           ​                        ​                                        ​  ​                              ​             ​ ​                    ​                  ​               ​                             ​      ​                                    ​​​          ​                                    ​                         ​                   ​                 ​                                                                          ​  ​  ​                          ​              ​ ​ ​                                            ​                   ​                           ​ ​           ​                                ​    ​                                      ​  ​                              ​             ​                            ​           ​               ​                             ​      ​                                         ​                                      ​          ​                           ​                   ​                ​                      ​  ​         ​                                      ​  ​                                    ​    ​ ​            ​                            ​                      ​                    ​            ​                              ​    ​                                                       ​                    ​              ​     ​                                      ​       ​                              ​      ​      ​                    ​                ​​           ​                                ​                        ​                                               ​               ​         ​                                                                                                                   ​                     ​                ​                                              ​       ​                       ​                             ​                                ​               ​  ​          ​   ​       ​       ​            ​ ​             ​       ​                          ​                                                                                                                 ​                                          ​    ​                                                                                                               ​     ​                  ​                ​             ​                    ​            ​                           ​   ​              ​​                    ​ ​  ​                                           ​                            ​​                          ​                          ​                                              ​  ​         ​        ​                           ​                                    ​                           ​      ​            ​       ​                                                   ​   ​                                              ​​    ​                            ​      ​       ​             ​       ​   ​                           ​                             ​                      ​                   ​    ​         ​                         ​      ​          ​                    ​                                        ​                     ​               ​                                      ​                                 ​​​                                 ​         ​                         ​                 ​ ​              ​                          ​                                                   ​ ​     ​               ​                    ​      ​                             ​                 ​           ​        ​                                       ​                            ​                                                ​                                            ​                                                                  ​                        ​     ​      ​                                   ​​​​                                   ​          ​                         ​                   ​                          ​                 ​ ​    ​                                          ​                                             ​     ​                            ​               ​                     ​                                                                   ​                                        ​                ​                   ​             ​                        ​                    ​ ​​            ​                        ​              ​     ​                                        ​​                                          ​ ​   ​                                      ​                                                ​         ​  ​                ​                 ​                                   ​     ​                           ​              ​ ​                   ​                         ​                        ​                                                                    ​    ​                              ​          ​          ​            ​                       ​  ​              ​     ​                ​    ​      ​                                 ​​                                  ​          ​ ​                          ​                     ​  ​  ​                                      ​ ​         ​                                     ​                    ​               ​    ​    ​    ​                                ​ ​                                           ​                                               ​                                            ​    ​                              ​          ​            ​            ​                        ​  ​              ​                            ​ ​    ​                           ​          ​                                                  ​ ​                                            ​                                                 ​                                                 ​​                     ​             ​                                    ​           ​ ​  ​                ​                          ​​                                                                               ​        ​                                             ​                       ​                    ​               ​                        ​     ​        ​                       ​               ​​​                                   ​         ​                                               ​ ​      ​       ​                          ​ ​                                              ​ ​                                             ​ ​                          ​     ​            ​      ​            ​                        ​              ​                                 ​                                         ​ ​                                                                                                                                       ​      ​     ​   ​                        ​​                          ​       ​        ​            ​            ​                   ​                 ​                      ​                                                ​                                               ​ ");local w=(0x3b5/73)local l=40 local d=o;local e={}e={[(0x6d+-108)]=function()local n,e,r,o=G(P,d,d+M);d=d+g;l=(l+(w*g))%x;return(((o+l-(w)+a*(g*f))%a)*((f*J)^f))+(((r+l-(w*f)+a*(f^M))%x)*(a*x))+(((e+l-(w*M)+J)%x)*a)+((n+l-(w*g)+J)%x);end,[(77+-0x4b)]=function(e,e,e)local e=G(P,d,d);d=d+r;l=(l+(w))%x;return((e+l-(w)+J)%a);end,[(0x2e-43)]=function()local e,n=G(P,d,d+f);l=(l+(w*f))%x;d=d+f;return(((n+l-(w)+a*(f*g))%a)*x)+((e+l-(w*f)+x*(f^M))%a);end,[(0x28-36)]=function(d,e,l)if l then local e=(d/f^(e-o))%f^((l-r)-(e-o)+r);return e-e%o;else local e=f^(e-r);return(d%(e+e)>=e)and o or m;end;end,[(0x37a/178)]=function()local l=e[(64-0x3f)]();local n=e[(171/0xab)]();local i=o;local d=(e[(102+-0x62)](n,r,B+g)*(f^(B*f)))+l;local l=e[((3780/0x8c)+-23)](n,21,31);local e=((-o)^e[(37-0x21)](n,32));if(l==m)then if(d==Y)then return e*m;else l=r;i=Y;end;elseif(l==(a*(f^M))-r)then return(d==m)and(e*(r/Y))or(e*(m/Y));end;return z(e,l-((x*(g))-o))*(i+(d/(f^X)));end,[(0x5b+-85)]=function(n,i,i)local i;if(not n)then n=e[(60-0x3b)]();if(n==m)then return'';end;end;i=K(P,d,d+n-o);d=d+n;local e=''for d=r,#i do e=C(e,Q((G(K(i,d,d))+l)%x))l=(l+w)%a end return e;end}local function P(...)return{...},L('#',...)end local function J()local w={};local n={};local l={};local c={w,n,nil,l};local d={}local t=(-46+0x3b)local a={[(83-0x50)]=(function(l)return not(#l==e[(0x1b8/220)]())end),[(548/0x89)]=(function(l)return e[(-0x75+122)]()end),[(21-(0x12de/230))]=(function(l)return e[(234/0x27)]()end),[((0x2ef3/119)+-100)]=(function(l)local d=e[(0x2b-37)]()local l=''local e=1 for n=1,#d do e=(e+t)%x l=C(l,Q((G(d:sub(n,n))+e)%a))end return l end)};c[3]=e[(65+-0x3f)]();for e=r,e[(97-0x60)]()do n[e-r]=J();end;local l=e[((0x23a9/179)-50)]()for l=1,l do local e=e[(85+-0x53)]();local n;local e=a[e%(-107+0x7f)];d[l]=e and e({});end;for a=1,e[(0x25+-36)]()do local l=e[(50+-0x30)]();if(e[(-0x60+100)](l,o,r)==Y)then local x=e[(0x4a-(255-0xb9))](l,f,M);local n=e[(0x2b-39)](l,g,f+g);local l={e[(0x19-22)](),e[(57+-0x36)](),nil,nil};local c={[(-87+0x57)]=function()l[p]=e[(0x16+-19)]();l[S]=e[(192/0x40)]();end,[(72-(5112/0x48))]=function()l[h]=e[(54/0x36)]();end,[(0x3e+-60)]=function()l[p]=e[(164/0xa4)]()-(f^B)end,[(0x33-48)]=function()l[h]=e[((0xa6+-112)/0x36)]()-(f^B)l[W]=e[(0x5b-88)]();end};c[x]();if(e[(-0x77+123)](n,r,o)==r)then l[k]=d[l[i]]end if(e[(28/0x7)](n,f,f)==o)then l[s]=d[l[b]]end if(e[(0x3a+-54)](n,M,M)==r)then l[N]=d[l[E]]end w[a]=l;end end;return c;end;local function Y(e,m,w)local B=e[f];local l=e[M];local e=e[o];return(function(...)local a=e;local J={...};local x=l;local M=P local d={};local P=L('#',...)-r;local l=o;local Q={};local G={};local g=-r;local B=B;for e=0,P do if(e>=x)then Q[e-x]=J[e+r];else d[e]=J[e+o];end;end;local e=P-x+o local e;local x;while true do e=a[l];x=e[(0xe5/229)];n=(2497962)while(0x132/6)>=x do n=-n n=(5080016)while x<=(0x59-64)do n=-n n=(1635164)while((15552/0x36)/24)>=x do n=-n n=(3445662)while x<=(0x42-(9882/0xa2))do n=-n n=(355023)while(101+-0x63)>=x do n=-n n=(1581602)while(0x0/159)>=x do n=-n d[e[j]][d[e[b]]]=e[V];break;end while 1474==(n)/((0x21880/128))do n=(8966100)while(-0x10+17)<x do n=-n local e=e[j]d[e](d[e+r])break end while(n)/((504900/0x99))==2717 do d[e[i]][d[e[b]]]=d[e[F]];break end;break;end break;end while 1461==(n)/((0x24e-347))do n=(1806588)while(0x1f5/167)>=x do n=-n do return end;break;end while(n)/((1348-(16944/0x18)))==2814 do n=(2885616)while x>(117-0x71)do n=-n d[e[c]]=m[e[_]];break end while(n)/((-88+0x871))==1392 do d[e[j]]=m[e[h]];break end;break;end break;end break;end while(n)/((0x504+-26))==2739 do n=(7413525)while x<=(0x490/146)do n=-n n=(516274)while(1344/0xe0)>=x do n=-n local r;local x;local b,t;local n;d[e[c]]=(e[_]~=0);l=l+o;e=a[l];n=e[i]b,t=M(d[n](y(d,n+1,e[h])))g=t+n-1 x=0;for e=n,g do x=x+o;d[e]=b[x];end;l=l+o;e=a[l];n=e[i]d[n]=d[n](y(d,n+o,g))l=l+o;e=a[l];n=e[c]d[n]=d[n]()l=l+o;e=a[l];n=e[v];r=d[e[_]];d[n+1]=r;d[n]=r[e[E]];l=l+o;e=a[l];d[e[k]]=w[e[_]];l=l+o;e=a[l];d[e[i]]=e[s];l=l+o;e=a[l];d[e[c]]=e[p];l=l+o;e=a[l];d[e[u]]=e[s];l=l+o;e=a[l];n=e[j]d[n]=d[n](y(d,n+o,e[h]))break;end while 682==(n)/((849+-0x5c))do n=(488448)while(1715/0xf5)<x do n=-n d[e[v]]=w[e[t]];break end while 256==(n)/((2002+-0x5e))do local c=B[e[b]];local x;local n={};x=R({},{__index=function(l,e)local e=n[e];return e[1][e[2]];end,__newindex=function(d,e,l)local e=n[e]e[1][e[2]]=l;end;});for o=1,e[F]do l=l+r;local e=a[l];if e[(99+-0x62)]==38 then n[o-1]={d,e[_]};else n[o-1]={m,e[b]};end;G[#G+1]=n;end;d[e[i]]=Y(c,x,w);break end;break;end break;end while 2835==(n)/((2686+-0x47))do n=(3558044)while(120-0x6e)>=x do n=-n n=(477848)while(-113+0x7a)<x do n=-n local n=e[_];local l=d[n]for e=n+1,e[N]do l=l..d[e];end;d[e[i]]=l;break end while 742==(n)/((90160/0x8c))do d[e[u]]=Y(B[e[b]],nil,w);break end;break;end while(n)/((398060/0x82))==1162 do n=(5141718)while x>(81-0x46)do n=-n w[e[b]]=d[e[i]];break end while 1867==(n)/((0x66330/152))do local x;local h,r;local n;d[e[v]]=w[e[t]];l=l+o;e=a[l];d[e[u]]=w[e[_]];l=l+o;e=a[l];d[e[i]]=d[e[t]][e[S]];l=l+o;e=a[l];d[e[v]]=w[e[p]];l=l+o;e=a[l];d[e[v]]=w[e[_]];l=l+o;e=a[l];d[e[c]]=e[t];l=l+o;e=a[l];d[e[c]]=e[b];l=l+o;e=a[l];d[e[i]]=e[_];l=l+o;e=a[l];n=e[c]d[n]=d[n](y(d,n+o,e[t]))l=l+o;e=a[l];n=e[c]h,r=M(d[n](y(d,n+1,e[p])))g=r+n-1 x=0;for e=n,g do x=x+o;d[e]=h[x];end;l=l+o;e=a[l];n=e[v]d[n]=d[n](y(d,n+o,g))l=l+o;e=a[l];d[e[v]]();l=l+o;e=a[l];do return end;break end;break;end break;end break;end break;end while(n)/(((0x5e9650/38)/42))==421 do n=(4103450)while x<=(-0x12+36)do n=-n n=(14584416)while(3450/0xe6)>=x do n=-n n=(9317316)while x<=(2236/0xac)do n=-n local l=e[k]d[l](y(d,l+r,e[s]))break;end while 2742==(n)/((0xd8a+-68))do n=(1615851)while x>(0x976/173)do n=-n local e=e[k]d[e]=d[e](d[e+r])break end while 1189==(n)/((286749/0xd3))do local n;d[e[i]]=e[b];l=l+o;e=a[l];d[e[u]]=e[h];l=l+o;e=a[l];n=e[u]d[n]=d[n](y(d,n+o,e[t]))l=l+o;e=a[l];n=e[v]d[n](y(d,n+r,e[b]))l=l+o;e=a[l];do return end;break end;break;end break;end while(n)/((0x521d0/91))==3946 do n=(326313)while(0x59-73)>=x do n=-n local x;local n;d[e[c]]=w[e[b]];l=l+o;e=a[l];d[e[v]]=w[e[h]];l=l+o;e=a[l];d[e[i]]=e[_];l=l+o;e=a[l];d[e[k]]=e[p];l=l+o;e=a[l];d[e[k]]=e[b];l=l+o;e=a[l];n=e[i]d[n]=d[n](y(d,n+o,e[p]))l=l+o;e=a[l];d[e[k]]=d[e[h]][d[e[V]]];l=l+o;e=a[l];n=e[c]d[n]=d[n](d[n+r])l=l+o;e=a[l];x=d[e[E]];if not x then l=l+r;else d[e[u]]=x;l=e[s];end;break;end while(n)/((552222/0xc6))==117 do n=(706155)while x>((69088/0x10)/0xfe)do n=-n if(d[e[c]]~=e[V])then l=l+r;else l=e[t];end;break end while 179==(n)/((7973-0xfbc))do local l=e[v]local n,e=M(d[l](y(d,l+1,e[t])))g=e+l-1 local e=0;for l=l,g do e=e+o;d[l]=n[e];end;break end;break;end break;end break;end while(n)/((-17+0xaef))==1475 do n=(955164)while x<=(0xfab/191)do n=-n n=(12996564)while(0x36+-35)>=x do n=-n d[e[v]]=d[e[s]][d[e[S]]];break;end while(n)/((0xf7c+-120))==3381 do n=(1580388)while(0x87+-115)<x do n=-n d[e[j]]();break end while 762==(n)/(((-0x27+10)+0x837))do local n;d[e[i]]=w[e[s]];l=l+o;e=a[l];d[e[u]]=w[e[t]];l=l+o;e=a[l];d[e[v]]=e[_];l=l+o;e=a[l];d[e[u]]=e[_];l=l+o;e=a[l];d[e[k]]=e[_];l=l+o;e=a[l];n=e[i]d[n]=d[n](y(d,n+o,e[h]))l=l+o;e=a[l];d[e[c]]=d[e[p]][d[e[N]]];l=l+o;e=a[l];d[e[j]]=m[e[b]];l=l+o;e=a[l];n=e[k]d[n]=d[n](d[n+r])l=l+o;e=a[l];m[e[b]]=d[e[k]];l=l+o;e=a[l];do return end;break end;break;end break;end while(n)/((152481/0x35))==332 do n=(7356672)while((-0x74+2485)/103)>=x do n=-n n=(227304)while x>(2816/0x80)do n=-n local n=e[s];local l=d[n]for e=n+1,e[F]do l=l..d[e];end;d[e[i]]=l;break end while 396==(n)/((-69+0x283))do local x=B[e[b]];local o;local n={};o=R({},{__index=function(l,e)local e=n[e];return e[1][e[2]];end,__newindex=function(d,e,l)local e=n[e]e[1][e[2]]=l;end;});for o=1,e[V]do l=l+r;local e=a[l];if e[(0xfd/253)]==38 then n[o-1]={d,e[t]};else n[o-1]={m,e[b]};end;G[#G+1]=n;end;d[e[k]]=Y(x,o,w);break end;break;end while(n)/((7453-0xea1))==1984 do n=(10296594)while(107+-0x53)<x do n=-n local e=e[k]d[e]=d[e]()break end while(n)/((0x1dd9-3879))==2737 do d[e[v]]=d[e[_]][d[e[F]]];break end;break;end break;end break;end break;end break;end while(n)/(((-135+0xe)+1385))==4019 do n=(3876384)while x<=(2280/0x3c)do n=-n n=(4587566)while(117-0x56)>=x do n=-n n=(2959537)while(-33+0x3d)>=x do n=-n n=(1160628)while x<=(157-0x83)do n=-n if d[e[u]]then l=l+o;else l=e[s];end;break;end while(n)/((0xc8ad/179))==4044 do n=(2649735)while x>(0xb0-(10728/0x48))do n=-n d[e[i]]=d[e[b]];break end while(n)/((1786+-0x25))==1515 do w[e[t]]=d[e[c]];break end;break;end break;end while(n)/((105399/0x3f))==1769 do n=(870179)while(0xfdc/140)>=x do n=-n d[e[u]]=Y(B[e[h]],nil,w);break;end while(n)/((-0x55+374))==3011 do n=(12633780)while(0x61-67)<x do n=-n local e={d,e};e[r][e[f][u]]=e[o][e[f][F]]+e[r][e[f][b]];break end while(n)/((0x19d4-3339))==3860 do local l=e[c];local n=d[e[p]];d[l+1]=n;d[l]=n[e[E]];break end;break;end break;end break;end while(n)/(((0x17a932-775332)/205))==1213 do n=(10078928)while x<=(0x68-70)do n=-n n=(2423986)while x<=(93-0x3d)do n=-n d[e[i]]=w[e[p]];break;end while(n)/((0x9ba+-44))==991 do n=(292998)while x>(1122/0x22)do n=-n local e=e[k]d[e](d[e+r])break end while(n)/(((8631-0x111b)-2174))==141 do d[e[c]]=m[e[b]];l=l+o;e=a[l];d[e[c]]=#d[e[t]];l=l+o;e=a[l];m[e[p]]=d[e[c]];l=l+o;e=a[l];d[e[c]]=m[e[b]];l=l+o;e=a[l];d[e[c]]=#d[e[h]];l=l+o;e=a[l];m[e[_]]=d[e[v]];l=l+o;e=a[l];do return end;break end;break;end break;end while(n)/((-0x36+2698))==3812 do n=(7193280)while(198-(0x2e32/73))>=x do n=-n n=(6303850)while(0x79-86)<x do n=-n local e=e[i]d[e]=d[e](y(d,e+o,g))break end while(n)/((0x6c43a/181))==2573 do local x;local n;d[e[c]]=w[e[b]];l=l+o;e=a[l];d[e[i]]=w[e[h]];l=l+o;e=a[l];d[e[i]]=e[t];l=l+o;e=a[l];d[e[c]]=e[b];l=l+o;e=a[l];d[e[u]]=e[p];l=l+o;e=a[l];n=e[u]d[n]=d[n](y(d,n+o,e[t]))l=l+o;e=a[l];d[e[k]]=d[e[t]][d[e[N]]];l=l+o;e=a[l];n=e[k]d[n]=d[n](d[n+r])l=l+o;e=a[l];x=d[e[W]];if not x then l=l+r;else d[e[c]]=x;l=e[b];end;break end;break;end while(n)/((0x17f3-3083))==2360 do n=(3586934)while(0x85+-96)<x do n=-n d[e[k]]=d[e[s]];break end while(n)/((1117+-0x6e))==3562 do if(d[e[j]]~=e[N])then l=l+r;else l=e[h];end;break end;break;end break;end break;end break;end while 1084==(n)/((-40+0xe20))do n=(1730106)while(-0x39+101)>=x do n=-n n=(2084360)while(0x1a1b/163)>=x do n=-n n=(6711600)while x<=(0xcc-165)do n=-n d[e[i]]=d[e[t]]%e[E];break;end while 3400==(n)/((4018-0x7fc))do n=(388815)while(126-0x56)<x do n=-n l=e[s];break end while 735==(n)/((1125-0x254))do local x;local f,r;local n;d[e[i]]=w[e[h]];l=l+o;e=a[l];d[e[j]]=w[e[t]];l=l+o;e=a[l];d[e[u]]=d[e[_]][e[E]];l=l+o;e=a[l];d[e[c]]=w[e[b]];l=l+o;e=a[l];d[e[v]]=w[e[p]];l=l+o;e=a[l];d[e[k]]=e[h];l=l+o;e=a[l];d[e[j]]=e[s];l=l+o;e=a[l];d[e[v]]=e[s];l=l+o;e=a[l];n=e[j]d[n]=d[n](y(d,n+o,e[b]))l=l+o;e=a[l];n=e[i]f,r=M(d[n](y(d,n+1,e[_])))g=r+n-1 x=0;for e=n,g do x=x+o;d[e]=f[x];end;l=l+o;e=a[l];n=e[v]d[n]=d[n](y(d,n+o,g))l=l+o;e=a[l];d[e[v]]();l=l+o;e=a[l];do return end;break end;break;end break;end while 2140==(n)/(((0x42d+-27)+-68))do n=(423225)while x<=(-0x1e+(11160/0x9b))do n=-n local l=e[c]d[l]=d[l](y(d,l+o,e[s]))break;end while 275==(n)/((0x1bcde/74))do n=(1938685)while x>(0x231b/209)do n=-n local l=e[u]d[l]=d[l](y(d,l+o,e[p]))break end while 2009==(n)/(((2035+-0x32)-1020))do d[e[c]]=d[e[h]]%e[W];break end;break;end break;end break;end while 597==(n)/((0x1539c/30))do n=(1410048)while(6392/0x88)>=x do n=-n n=(4000400)while(-0x6d+154)>=x do n=-n local r;local x;local n;d[e[k]]=e[s];l=l+o;e=a[l];d[e[k]]=e[p];l=l+o;e=a[l];d[e[j]]=#d[e[b]];l=l+o;e=a[l];d[e[i]]=e[b];l=l+o;e=a[l];n=e[u];x=d[n]r=d[n+2];if(r>0)then if(x>d[n+1])then l=e[b];else d[n+3]=x;end elseif(x<d[n+1])then l=e[h];else d[n+3]=x;end break;end while 2192==(n)/((0x4e6b0/176))do n=(203137)while x>((7779-0xf4b)/0x54)do n=-n w[e[p]]=d[e[u]];l=l+o;e=a[l];d[e[i]]={};l=l+o;e=a[l];d[e[u]]={};l=l+o;e=a[l];w[e[_]]=d[e[k]];l=l+o;e=a[l];d[e[v]]=w[e[s]];l=l+o;e=a[l];if(d[e[i]]~=e[E])then l=l+r;else l=e[b];end;break end while 3443==(n)/((0xc3-136))do d[e[v]]=(e[_]~=0);break end;break;end break;end while(n)/((-91+0x56b))==1088 do n=(556920)while x<=(-48+0x61)do n=-n n=(10707780)while(0x7c-76)<x do n=-n d[e[i]]={};break end while(n)/((0x1f3e-4010))==2685 do if not d[e[k]]then l=l+r;else l=e[t];end;break end;break;end while 1560==(n)/(((10596474/0x99)/0xc2))do n=(827884)while((10523+-0x49)/209)<x do n=-n local e=e[k]d[e]=d[e](d[e+r])break end while 2978==(n)/((-36+0x13a))do local x;local n;n=e[v];x=d[e[b]];d[n+1]=x;d[n]=x[e[V]];l=l+o;e=a[l];d[e[j]]=w[e[h]];l=l+o;e=a[l];d[e[i]]=e[s];l=l+o;e=a[l];d[e[c]]=e[h];l=l+o;e=a[l];d[e[i]]=e[h];l=l+o;e=a[l];n=e[k]d[n]=d[n](y(d,n+o,e[s]))l=l+o;e=a[l];n=e[v]d[n](y(d,n+r,e[t]))l=l+o;e=a[l];n=e[j];x=d[e[h]];d[n+1]=x;d[n]=x[e[V]];l=l+o;e=a[l];d[e[j]]=w[e[t]];l=l+o;e=a[l];d[e[j]]=e[p];break end;break;end break;end break;end break;end break;end break;end while 1822==(n)/(((0x3b54+-107)/0xb))do n=(7671510)while x<=(0xfa-173)do n=-n n=(242169)while x<=(0x680/26)do n=-n n=(5672826)while x<=(9576/0xa8)do n=-n n=(4132464)while(188-0x86)>=x do n=-n n=(8423520)while(-0x5d+145)>=x do n=-n local n=e[i];local a=d[n+2];local o=d[n]+a;d[n]=o;if(a>0)then if(o<=d[n+1])then l=e[p];d[n+3]=o;end elseif(o>=d[n+1])then l=e[b];d[n+3]=o;end break;end while(n)/((180940/0x53))==3864 do n=(2024649)while((25116/0xa1)-103)<x do n=-n if(d[e[j]]~=d[e[E]])then l=l+r;else l=e[h];end;break end while(n)/((0x978cc/172))==561 do d[e[u]]=d[e[t]]-d[e[N]];break end;break;end break;end while(n)/((1460+-0x58))==3012 do n=(1640715)while x<=(0xe5-174)do n=-n local e=e[c]d[e]=d[e]()break;end while 445==(n)/(((0x3a42-7518)-0xe7d))do n=(1351242)while x>(-0x27+(17765/0xbb))do n=-n d[e[i]][d[e[h]]]=e[N];break end while 1539==(n)/((0xd4a4/62))do d[e[j]][d[e[t]]]=d[e[V]];break end;break;end break;end break;end while 2789==(n)/((4107-0x819))do n=(2034678)while(179-0x77)>=x do n=-n n=(7803546)while x<=(0xa7+-109)do n=-n local e={d,e};e[o][e[f][k]]=e[f][N]+e[f][h];break;end while 2631==(n)/((6022-0xbf0))do n=(5852470)while x>(201-0x8e)do n=-n d[e[u]]();break end while 3463==(n)/((0xd9d-1795))do local l=e[v]d[l](y(d,l+r,e[h]))break end;break;end break;end while(n)/((0x1796-3037))==678 do n=(1181280)while(0x15cc/90)>=x do n=-n n=(3912772)while(238-0xb1)<x do n=-n d[e[v]]=e[s];break end while 1388==(n)/((563800/0xc8))do local x;local n;d[e[j]]=(e[t]~=0);l=l+o;e=a[l];d[e[i]]=d[e[p]];l=l+o;e=a[l];d[e[c]]=w[e[s]];l=l+o;e=a[l];n=e[c]d[n]=d[n](d[n+r])l=l+o;e=a[l];x=d[e[S]];if not x then l=l+r;else d[e[i]]=x;l=e[t];end;break end;break;end while(n)/((0x638-856))==1605 do n=(567567)while(0xba-123)<x do n=-n local e={d,e};e[o][e[f][k]]=e[f][W]+e[f][h];break end while 147==(n)/((0x1e51-3900))do d[e[i]]=#d[e[b]];break end;break;end break;end break;end break;end while(n)/((144+-0x37))==2721 do n=(1119234)while(193-0x7b)>=x do n=-n n=(8426152)while(0xa4-97)>=x do n=-n n=(11471889)while((0x44a/6)-0x76)>=x do n=-n local n;d[e[u]][d[e[s]]]=d[e[V]];l=l+o;e=a[l];d[e[c]]=w[e[p]];l=l+o;e=a[l];d[e[v]]=e[h];l=l+o;e=a[l];d[e[c]]=e[p];l=l+o;e=a[l];d[e[v]]=e[h];l=l+o;e=a[l];n=e[i]d[n]=d[n](y(d,n+o,e[b]))l=l+o;e=a[l];d[e[k]][d[e[h]]]=e[E];l=l+o;e=a[l];d[e[v]]=w[e[b]];l=l+o;e=a[l];d[e[i]]=e[t];l=l+o;e=a[l];d[e[u]]=e[_];break;end while(n)/((0x1f76-(8150-0xff9)))==2873 do n=(622001)while x>(0xba+-120)do n=-n d[e[i]]={};break end while 661==(n)/((-0x66+1043))do local x;local n;n=e[c]d[n](y(d,n+r,e[s]))l=l+o;e=a[l];n=e[c];x=d[e[s]];d[n+1]=x;d[n]=x[e[E]];l=l+o;e=a[l];d[e[k]]=w[e[h]];l=l+o;e=a[l];d[e[u]]=e[h];l=l+o;e=a[l];d[e[v]]=e[h];l=l+o;e=a[l];d[e[j]]=e[t];l=l+o;e=a[l];n=e[j]d[n]=d[n](y(d,n+o,e[p]))l=l+o;e=a[l];n=e[c]d[n]=d[n](y(d,n+o,e[t]))l=l+o;e=a[l];n=e[k];x=d[e[t]];d[n+1]=x;d[n]=x[e[E]];l=l+o;e=a[l];d[e[c]]=w[e[t]];break end;break;end break;end while(n)/((0x174d-2997))==2839 do n=(827100)while(-87+0x9b)>=x do n=-n d[e[j]]=(e[b]~=0);l=l+r;break;end while(n)/((0x76d-1001))==919 do n=(10390250)while(0xc6-129)<x do n=-n local n;local x;d[e[i]]=w[e[t]];l=l+o;e=a[l];d[e[c]]=e[t];l=l+o;e=a[l];d[e[k]]=e[b];l=l+o;e=a[l];x=e[s];n=d[x]for e=x+1,e[V]do n=n..d[e];end;d[e[c]]=n;l=l+o;e=a[l];if d[e[i]]then l=l+o;else l=e[_];end;break end while(n)/((0xd2d+-123))==3197 do l=e[p];break end;break;end break;end break;end while 334==(n)/((-49+0xd48))do n=(82541)while x<=(-26+0x63)do n=-n n=(5306560)while(0xa7-96)>=x do n=-n d[e[v]]=d[e[s]][e[N]];break;end while 1840==(n)/((0x16f5-2993))do n=(2369664)while x>(15192/0xd3)do n=-n local x;local n;n=e[c]d[n]=d[n](y(d,n+o,e[p]))l=l+o;e=a[l];d[e[v]][d[e[_]]]=e[E];l=l+o;e=a[l];d[e[u]][e[_]]=d[e[F]];l=l+o;e=a[l];d[e[u]]=w[e[p]];l=l+o;e=a[l];d[e[u]]=w[e[_]];l=l+o;e=a[l];n=e[j];x=d[e[_]];d[n+1]=x;d[n]=x[e[N]];l=l+o;e=a[l];d[e[u]]=w[e[t]];l=l+o;e=a[l];d[e[c]]=e[b];l=l+o;e=a[l];d[e[i]]=e[h];l=l+o;e=a[l];d[e[c]]=e[p];break end while(n)/((3956+-0x54))==612 do do return d[e[u]]end break end;break;end break;end while(n)/((-19+0x4e))==1399 do n=(4523615)while(117+(-10458/0xf9))>=x do n=-n n=(2598175)while x>(-65+0x8b)do n=-n m[e[s]]=d[e[j]];break end while 2575==(n)/((1061+-0x34))do local n;d[e[j]]={};l=l+o;e=a[l];d[e[i]]=w[e[h]];l=l+o;e=a[l];d[e[k]]=e[t];l=l+o;e=a[l];d[e[u]]=e[b];l=l+o;e=a[l];d[e[v]]=e[_];l=l+o;e=a[l];n=e[i]d[n]=d[n](y(d,n+o,e[s]))l=l+o;e=a[l];d[e[c]]=w[e[h]];l=l+o;e=a[l];d[e[u]]=e[b];l=l+o;e=a[l];d[e[v]]=e[h];l=l+o;e=a[l];d[e[c]]=e[t];break end;break;end while(n)/((0x1606-2837))==1615 do n=(1850842)while x>(0xc5+-121)do n=-n local n=e[c];local o=d[n]local a=d[n+2];if(a>0)then if(o>d[n+1])then l=e[b];else d[n+3]=o;end elseif(o<d[n+1])then l=e[h];else d[n+3]=o;end break end while 511==(n)/((-112+0xe96))do d[e[c]]=e[h];break end;break;end break;end break;end break;end break;end while 3465==(n)/((0x119c-2294))do n=(836825)while(-0x26+128)>=x do n=-n n=(4686184)while(10043/0x79)>=x do n=-n n=(920928)while(0xc6-118)>=x do n=-n n=(4523750)while(0xe8-154)>=x do n=-n if not d[e[i]]then l=l+r;else l=e[h];end;break;end while 2585==(n)/((-69+0x71b))do n=(12825736)while(0x154b/69)<x do n=-n local l=e[i]local n,e=M(d[l](y(d,l+1,e[b])))g=e+l-1 local e=0;for l=l,g do e=e+o;d[l]=n[e];end;break end while 3619==(n)/((0xceca8/239))do d[e[u]]=(e[t]~=0);break end;break;end break;end while 724==(n)/((0x54e+-86))do n=(3392088)while x<=(273-0xc0)do n=-n local e={d,e};e[r][e[f][u]]=e[o][e[f][N]]+e[r][e[f][s]];break;end while 2562==(n)/((0xa7c-(0xaec-1436)))do n=(2948596)while(276-0xc2)<x do n=-n local n=e[u];local a=d[n+2];local o=d[n]+a;d[n]=o;if(a>0)then if(o<=d[n+1])then l=e[_];d[n+3]=o;end elseif(o>=d[n+1])then l=e[_];d[n+3]=o;end break end while 1106==(n)/((0xa7b+-17))do local x;local n;n=e[k]d[n](y(d,n+r,e[_]))l=l+o;e=a[l];n=e[c];x=d[e[h]];d[n+1]=x;d[n]=x[e[N]];l=l+o;e=a[l];d[e[i]]=w[e[t]];l=l+o;e=a[l];d[e[i]]=e[t];l=l+o;e=a[l];d[e[u]]=e[b];l=l+o;e=a[l];d[e[i]]=e[_];l=l+o;e=a[l];n=e[c]d[n]=d[n](y(d,n+o,e[_]))l=l+o;e=a[l];d[e[k]]=(e[s]~=0);break end;break;end break;end break;end while(n)/((0xa79+-109))==1822 do n=(7725564)while x<=(201-0x73)do n=-n n=(3734003)while(182+-0x62)>=x do n=-n d[e[j]][e[b]]=d[e[W]];break;end while(n)/(((300759/0x57)+-0x5a))==1109 do n=(537372)while x>(187-0x66)do n=-n local x;local n;d[e[u]]=w[e[h]];l=l+o;e=a[l];d[e[c]]=w[e[s]];l=l+o;e=a[l];d[e[v]]=e[b];l=l+o;e=a[l];d[e[i]]=e[p];l=l+o;e=a[l];d[e[u]]=e[s];l=l+o;e=a[l];n=e[k]d[n]=d[n](y(d,n+o,e[_]))l=l+o;e=a[l];d[e[v]]=d[e[b]][d[e[V]]];l=l+o;e=a[l];n=e[c]d[n]=d[n](d[n+r])l=l+o;e=a[l];x=d[e[F]];if not x then l=l+r;else d[e[k]]=x;l=e[h];end;break end while 414==(n)/((2631-0x535))do local n=d[e[F]];if not n then l=l+r;else d[e[c]]=n;l=e[s];end;break end;break;end break;end while 2772==(n)/((-0x7d+2912))do n=(1893440)while(209-0x79)>=x do n=-n n=(7176449)while x>(0x56a9/255)do n=-n do return end;break end while(n)/((0x36ac/4))==2051 do do return d[e[k]]end break end;break;end while(n)/((-0x5a+2030))==976 do n=(7856118)while x>(-0x4c+165)do n=-n local e=e[j]d[e]=d[e](y(d,e+o,g))break end while(n)/((-52+(0x6e12f/203)))==3622 do local n=e[i];local o=d[n]local a=d[n+2];if(a>0)then if(o>d[n+1])then l=e[p];else d[n+3]=o;end elseif(o<d[n+1])then l=e[_];else d[n+3]=o;end break end;break;end break;end break;end break;end while(n)/((0xc00+-29))==275 do n=(10373503)while(0x7d+-28)>=x do n=-n n=(1848600)while x<=(167+-0x4a)do n=-n n=(1667223)while(0x134-217)>=x do n=-n d[e[v]]=(e[t]~=0);l=l+r;break;end while(n)/((0xe3d/5))==2287 do n=(9048900)while(301-0xd1)<x do n=-n local n=d[e[S]];if not n then l=l+r;else d[e[c]]=n;l=e[s];end;break end while(n)/((83400/0x1e))==3255 do if(d[e[v]]~=d[e[E]])then l=l+r;else l=e[_];end;break end;break;end break;end while(n)/((0x9ff60/252))==711 do n=(1434875)while x<=(-33+0x80)do n=-n n=(5807136)while x>(8366/0x59)do n=-n d[e[k]][e[_]]=d[e[E]];break end while 1506==(n)/((0x8d360/150))do m[e[s]]=d[e[j]];break end;break;end while(n)/((0x26283/177))==1625 do n=(1227704)while((0x42f00/42)/0x44)<x do n=-n d[e[i]]=d[e[h]][e[S]];break end while(n)/((-127+0x393))==1558 do local g;local x;local c;local n;d[e[k]]=w[e[s]];l=l+o;e=a[l];d[e[j]]=d[e[h]][e[V]];l=l+o;e=a[l];n=e[j];c=d[e[p]];d[n+1]=c;d[n]=c[e[W]];l=l+o;e=a[l];d[e[i]]=d[e[b]];l=l+o;e=a[l];d[e[j]]=d[e[t]];l=l+o;e=a[l];n=e[u]d[n]=d[n](y(d,n+o,e[t]))l=l+o;e=a[l];n=e[u];c=d[e[t]];d[n+1]=c;d[n]=c[e[S]];l=l+o;e=a[l];n=e[k]d[n]=d[n](d[n+r])l=l+o;e=a[l];x={d,e};x[r][x[f][u]]=x[o][x[f][F]]+x[r][x[f][_]];l=l+o;e=a[l];d[e[u]]=d[e[s]]%e[F];l=l+o;e=a[l];n=e[i]d[n]=d[n](d[n+r])l=l+o;e=a[l];c=e[h];g=d[c]for e=c+1,e[F]do g=g..d[e];end;d[e[u]]=g;l=l+o;e=a[l];x={d,e};x[r][x[f][k]]=x[o][x[f][W]]+x[r][x[f][p]];l=l+o;e=a[l];d[e[v]]=d[e[p]]%e[V];break end;break;end break;end break;end while 2611==(n)/((0xecac4/244))do n=(4742018)while x<=(200+(-0x2a+-58))do n=-n n=(537792)while x<=(0x4d54/202)do n=-n d[e[k]]=#d[e[h]];break;end while 192==(n)/((0x1654-(-0x7a+3037)))do n=(3182634)while x>(10197/0x67)do n=-n d[e[k]]=d[e[b]]-d[e[F]];break end while 2262==(n)/(((188559/0x7b)+-0x7e))do if(d[e[j]]==d[e[S]])then l=l+r;else l=e[s];end;break end;break;end break;end while 2867==(n)/((248100/0x96))do n=(12032712)while x<=(-0x6b+209)do n=-n n=(1639416)while(0x139-(237+-0x19))<x do n=-n if(d[e[j]]==d[e[V]])then l=l+r;else l=e[t];end;break end while 498==(n)/((441128/0x86))do if d[e[j]]then l=l+o;else l=e[s];end;break end;break;end while 3594==(n)/((254448/0x4c))do n=(5867920)while x>(0x91+-42)do n=-n local n;d[e[c]]=w[e[s]];l=l+o;e=a[l];d[e[u]]=w[e[_]];l=l+o;e=a[l];d[e[c]]=e[b];l=l+o;e=a[l];d[e[j]]=e[p];l=l+o;e=a[l];d[e[k]]=e[p];l=l+o;e=a[l];n=e[j]d[n]=d[n](y(d,n+o,e[t]))l=l+o;e=a[l];d[e[k]]=d[e[h]][d[e[S]]];l=l+o;e=a[l];n=e[k]d[n]=d[n](d[n+r])l=l+o;e=a[l];d[e[j]]=d[e[s]];l=l+o;e=a[l];l=e[b];break end while 1640==(n)/((7156/0x2))do local n=e[k];local l=d[e[t]];d[n+1]=l;d[n]=l[e[S]];break end;break;end break;end break;end break;end break;end break;end l=l+o;end;end);end;return Y(J(),{},T())()end)_msec({[(0xb54a/(-109+0x16c))]='\115\116'..(function(e)return(e and'      ​   ')or'\114\105'or'\120\58'end)((97-0x5c)==(87-0x51))..'\110g',["  ​   ​     "]='\108\100'..(function(e)return(e and'        ')or'\101\120'or'\119\111'end)((0x1f-26)==((0x2664/13)/126))..'\112',["             "]=(function(e)return(e and'         ')and'\98\121'or'\100\120'end)((34-0x1d)==(0x5a-85))..'\116\101',["               "]='\99'..(function(e)return(e and'     ​          ')and'\90\19\157'or'\104\97'end)((0x68-99)==(0x44-65))..'\114',[(0x275+-68)]='\116\97'..(function(e)return(e and'         ')and'\64\113'or'\98\108'end)((0x72-108)==(1090/0xda))..'\101',["            "]=(function(e)return(e and'     ​        ')or'\115\117'or'\78\107'end)((85+-0x52)==(188-0x9d))..'\98',["                  "]='\99\111'..(function(e)return(e and'       ​  ')and'\110\99'or'\110\105\103\97'end)((0xac-141)==(6324/0xcc))..'\97\116',[(-85+0x2ea)]=(function(e,l)return(e and'​    ​​       ')and'\48\159\158\188\10'or'\109\97'end)((106+-0x65)==(56+-0x32))..'\116\104',[(0x4c530/234)]=(function(e,l)return((835/0xa7)==(0x33-48)and'\48'..'\195'or e..((not'\20\95\69'and'\90'..'\180'or l)))or'\199\203\95'end),["   ​          "]='\105\110'..(function(e,l)return(e and'    ​   ')and'\90\115\138\115\15'or'\115\101'end)((0x3e+-57)==(0x16e3/189))..'\114\116',["      ​     "]='\117\110'..(function(e,l)return(e and'              ')or'\112\97'or'\20\38\154'end)((45+(-16-0x18))==(0x1170/144))..'\99\107',["                 "]='\115\101'..(function(e)return(e and'           ')and'\110\112\99\104'or'\108\101'end)((-45+0x32)==(0xc1c/100))..'\99\116',[" ​   ​   "]='\116\111\110'..(function(e,l)return(e and'              ')and'\117\109\98'or'\100\97\120\122'end)((113-0x6c)==(0x33-(9338/0xcb)))..'\101\114'},{["           ​"]=((getfenv)or(function()return(_ENV)end))},((getfenv)or(function()return(_ENV)end))()) end)()
+
+local Watermark_Text = Drawing.new("Text")
+Watermark_Text.Text = 'hello kitty stan'
+Watermark_Text.Center = true
+Watermark_Text.Outline = true
+Watermark_Text.Color = Color3.new(3, 1, 1)
+Watermark_Text.Visible = true
+Watermark_Text.Size = 20
+Watermark_Text.Font = 2
+Watermark_Text.Position = Vector2.new(workspace.CurrentCamera.ViewportSize.X / 2, 0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+getgenv().GetRidOfLoadingStuffForLessDetection = true
+getgenv().Antiban = true
+getgenv().LiveLarger = true
+getgenv().GUITributeToKarina = true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+local Config = {
+    Esp = {
+        Box               = false,
+        BoxOutline        = true,
+        BoxColor          = Color3.fromRGB(255,255,255),
+        BoxOutlineColor   = Color3.fromRGB(0,0,0),
+        HealthBar         = false,
+        HealthBarSide     = "Bottom", -- Left,Bottom,Right
+        Names             = false,
+        NamesOutline      = true,
+        NamesColor        = Color3.fromRGB(255,255,255),
+        NamesOutlineColor = Color3.fromRGB(0,0,0),
+        NamesFont         = 0, -- 1,2,3
+        NamesSize         = 9,
+    },
+}
+
+
+
+
+
+
+
+
+function CreateEsp(Player)
+    local Box,BoxOutline,Name,HealthBar,HealthBarOutline = Drawing.new("Square"),Drawing.new("Square"),Drawing.new("Text"),Drawing.new("Square"),Drawing.new("Square")
+    local Updater = game:GetService("RunService").RenderStepped:Connect(function()
+    if Player ~= nil and Player:FindFirstChild("Humanoid") ~= nil and Player:FindFirstChild("HumanoidRootPart") ~= nil and Player.Humanoid.Health > 0 and Player:FindFirstChild("Head") ~= nil then
+        local Target2dPosition,IsVisible = workspace.CurrentCamera:WorldToViewportPoint(Player.HumanoidRootPart.Position)
+        local scale_factor = 1 / (Target2dPosition.Z * math.tan(math.rad(workspace.CurrentCamera.FieldOfView * 0.5)) * 2) * 100
+        local width, height = math.floor(40 * scale_factor), math.floor(60 * scale_factor)
+            if Config.Esp.Box then
+                Box.Visible = IsVisible
+                Box.Color = Config.Esp.BoxColor
+                Box.Size = Vector2.new(width,height)
+                Box.Position = Vector2.new(Target2dPosition.X - Box.Size.X / 2,Target2dPosition.Y - Box.Size.Y / 2)
+                Box.Filled = false
+                Box.Thickness = 1
+                Box.ZIndex = 69
+                if Config.Esp.BoxOutline then
+                    BoxOutline.Visible = IsVisible
+                    BoxOutline.Color = Config.Esp.BoxOutlineColor
+                    BoxOutline.Size = Vector2.new(width,height)
+                    BoxOutline.Position = Vector2.new(Target2dPosition.X - Box.Size.X / 2,Target2dPosition.Y - Box.Size.Y / 2)
+                    BoxOutline.Filled = false
+                    BoxOutline.Thickness = 2.2
+                    BoxOutline.ZIndex = 1
+                else
+                    BoxOutline.Visible = false
+                end
+            else
+                Box.Visible = false
+                BoxOutline.Visible = false
+            end
+            if Config.Esp.Names then
+                Name.Visible = IsVisible
+                Name.Color = Config.Esp.NamesColor
+                Name.Text = "Player"
+                Name.Center = true
+                Name.Outline = Config.Esp.NamesOutline
+                Name.OutlineColor = Config.Esp.NamesOutlineColor
+                Name.Position = Vector2.new(Target2dPosition.X,Target2dPosition.Y - height * 0.5 + -15)
+                Name.Font = Config.Esp.NamesFont
+                Name.Size = Config.Esp.NamesSize
+            else
+                Name.Visible = false
+            end
+            if Config.Esp.HealthBar then
+                HealthBarOutline.Visible = IsVisible
+                HealthBarOutline.Color = Color3.fromRGB(0,0,0)
+                HealthBarOutline.Filled = true
+                HealthBarOutline.ZIndex = 1
+
+                HealthBar.Visible = IsVisible
+                HealthBar.Color = Color3.fromRGB(255,0,0):lerp(Color3.fromRGB(0,255,0), Player:FindFirstChild("Humanoid").Health/Player:FindFirstChild("Humanoid").MaxHealth)
+                HealthBar.Thickness = 1
+                HealthBar.Filled = true
+                HealthBar.ZIndex = 69
+                if Config.Esp.HealthBarSide == "Left" then
+                    HealthBarOutline.Size = Vector2.new(2,height)
+                    HealthBarOutline.Position = Vector2.new(Target2dPosition.X - Box.Size.X / 2,Target2dPosition.Y - Box.Size.Y / 2) + Vector2.new(-3,0)
+                    
+                    HealthBar.Size = Vector2.new(1,-(HealthBarOutline.Size.Y - 2) * (Player:FindFirstChild("Humanoid").Health/Player:FindFirstChild("Humanoid").MaxHealth))
+                    HealthBar.Position = HealthBarOutline.Position + Vector2.new(1,-1 + HealthBarOutline.Size.Y)
+                elseif Config.Esp.HealthBarSide == "Bottom" then
+                    HealthBarOutline.Size = Vector2.new(width,3)
+                    HealthBarOutline.Position = Vector2.new(Target2dPosition.X - Box.Size.X / 2,Target2dPosition.Y - Box.Size.Y / 2) + Vector2.new(0,height + 2)
+
+                    HealthBar.Size = Vector2.new((HealthBarOutline.Size.X - 2) * (Player:FindFirstChild("Humanoid").Health/Player:FindFirstChild("Humanoid").MaxHealth),1)
+                    HealthBar.Position = HealthBarOutline.Position + Vector2.new(1,-1 + HealthBarOutline.Size.Y)
+                elseif Config.Esp.HealthBarSide == "Right" then
+                    HealthBarOutline.Size = Vector2.new(2,height)
+                    HealthBarOutline.Position = Vector2.new(Target2dPosition.X - Box.Size.X / 2,Target2dPosition.Y - Box.Size.Y / 2) + Vector2.new(width + 1,0)
+                    
+                    HealthBar.Size = Vector2.new(1,-(HealthBarOutline.Size.Y - 2) * (Player:FindFirstChild("Humanoid").Health/Player:FindFirstChild("Humanoid").MaxHealth))
+                    HealthBar.Position = HealthBarOutline.Position + Vector2.new(1,-1 + HealthBarOutline.Size.Y)
+                end
+            else
+                HealthBar.Visible = false
+                HealthBarOutline.Visible = false
+            end
+        else
+            Box.Visible = false
+            BoxOutline.Visible = false
+            Name.Visible = false
+            HealthBar.Visible = false
+            HealthBarOutline.Visible = false
+            if not Player then
+                Box:Remove()
+                BoxOutline:Remove()
+                Name:Remove()
+                HealthBar:Remove()
+                HealthBarOutline:Remove()
+                Updater:Disconnect()
+            end
+        end 
+    end)
+end
+for _,i in pairs(game:GetService("Workspace"):GetChildren()) do 
+    if i:FindFirstChild("Humanoid") and i ~= game.Players.LocalPlayer.Character and i:FindFirstChild("HumanoidRootPart") and i.Head:FindFirstChild("Nametag") then
+        CreateEsp(i)
+    end
+end
+
+game.Workspace.DescendantAdded:Connect(function(i)
+    if i:FindFirstChild("Humanoid") and i ~= game.Players.LocalPlayer.Character and i:FindFirstChild("HumanoidRootPart") and i.Head:FindFirstChild("Nametag") then
+        CreateEsp(i)
+    end
+end)
+
+
+
+
+
+
+
+
+
+-- AC BYPASS
+
+
+
+
+local a=typeof(syn)=="table"and syn.set_thread_identity or setthreadcontext or set_thread_context or setthreadidentity or set_thread_identity;if not Bypass then for b,c in next,getgc(true)do if typeof(c)=="table"and rawget(c,"checkXRAY")then a(12)table.foreach(c,function(b,d)local e=d;c[b]=function(...)return false end end)a(7)end end end
+if not Bypass3 then for a,b in next,getgc(true)do if typeof(b)=="table"and rawget(b,"UYW9;w>")then table.foreach(b,function(a,c)local d=c;b[a]=function(...)return false end end)end end end;if not Bypass3 then for a,b in next,getgc(true)do if typeof(b)=="table"and rawget(b,"GZRyzF")then table.foreach(b,function(a,c)local d=c;b[a]=function(...)return false end end)end end end;if not Bypass3 then for a,b in next,getgc(true)do if typeof(b)=="table"and rawget(b,"Bullet")then table.foreach(b,function(a,c)local d=c;b[a]=function(...)return false end end)end end end;if not Bypass3 then for a,b in next,getgc(true)do if typeof(b)=="table"and rawget(b,"bullet")then table.foreach(b,function(a,c)local d=c;b[a]=function(...)return false end end)end end end;if not Bypass3 then for a,b in next,getgc(true)do if typeof(b)=="table"and rawget(b,"")then table.foreach(b,function(a,c)local d=c;b[a]=function(...)return false end end)end end end
+
+
+-- Anticheat Disabler
+local set_identity = typeof(syn)=="table" and syn.set_thread_identity or setthreadcontext or set_thread_context or setthreadidentity or set_thread_identity
+
+
+
+local RayCheck
+for i,v in next, getgc(true) do
+    if type(v) == "table" and rawget(v, "ONRH_S4") and type(rawget(v, "ONRH_S4")) == "function" then
+        RayCheck = v
+        break
+    end
+end
+
+
+
+
+
+
+local function CreateEsp(name,text,P)
+    local ESP = Instance.new("BillboardGui")
+    local EspText = Instance.new("TextLabel")
+
+    ESP.Name = name
+    ESP.Parent = P
+    ESP.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    ESP.Active = true
+    ESP.AlwaysOnTop = true
+    ESP.LightInfluence = 1.000
+    ESP.Size = UDim2.new(0, 200, 0, 50)
+    ESP.SizeOffset = Vector2.new(0, 0.3)
+    ESP.Adornee = P
+
+    EspText.Name = "EspText"
+    EspText.Parent = ESP
+    EspText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    EspText.BackgroundTransparency = 1.000
+    EspText.Size = UDim2.new(0, 200, 0, 50)
+    EspText.Font = Enum.Font.SourceSans
+    EspText.Text = text
+    EspText.TextColor3 = Color3.fromRGB(21, 255, 0)
+    EspText.TextSize = 15
+    EspText.TextWrapped = true
+end
+
+
+
+
+
+
+if not Bypass3 then
+    for i,v in next, getgc(true) do
+        if typeof(v) == "table" and rawget(v, "UYW9;w>") then
+            table.foreach(v, function(i, func)
+                local Old = func
+                
+                v[i] = function(...)
+                    return false
+                end
+            end)
+        end
+    end
+end
+
+
+if not Bypass3 then
+    for i,v in next, getgc(true) do
+        if typeof(v) == "table" and rawget(v, "GZRyzF") then
+            table.foreach(v, function(i, func)
+                local Old = func
+                
+                v[i] = function(...)
+                    return false
+                end
+            end)
+        end
+    end
+end
+
+
+
+if not Bypass3 then
+    for i,v in next, getgc(true) do
+        if typeof(v) == "table" and rawget(v, "Bullet") then
+            table.foreach(v, function(i, func)
+                local Old = func
+                
+                v[i] = function(...)
+                    return false
+                end
+            end)
+        end
+    end
+end
+
+if not Bypass3 then
+    for i,v in next, getgc(true) do
+        if typeof(v) == "table" and rawget(v, "bullet") then
+            table.foreach(v, function(i, func)
+                local Old = func
+                
+                v[i] = function(...)
+                    return false
+                end
+            end)
+        end
+    end
+end
+
+
+
+if not Bypass3 then
+    for i,v in next, getgc(true) do
+        if typeof(v) == "table" and rawget(v, "") then
+            table.foreach(v, function(i, func)
+                local Old = func
+                
+                v[i] = function(...)
+                    return false
+                end
+            end)
+        end
+    end
+end
+
+
+
+
+
+game:GetService("Workspace").Gravity = 67.8
+
+
+local Players = game:GetService("Players");
+local LocalPlayer = Players.LocalPlayer;
+local Camera = game:GetService("Workspace").Camera;
+local CurrentCamera = game:GetService("Workspace").CurrentCamera
+local Mouse = LocalPlayer:GetMouse();
+local worldToViewportPoint = CurrentCamera.worldToViewportPoint
+local camera = game:GetService("Workspace").Camera;
+local UIS = game:GetService("UserInputService")
+
+local vector3_new, vector2_new = Vector3.new, Vector2.new
+
+local fovcircle2 = Drawing.new("Circle")
+fovcircle2.Visible = false
+fovcircle2.Radius = 0
+fovcircle2.Color = Color3.fromRGB(255,255,255)
+fovcircle2.Thickness = 1
+fovcircle2.Filled = false
+fovcircle2.Transparency = 1
+fovcircle2.Position = vector2_new(Camera.ViewportSize.X / 2, Camera.ViewportSize.Y / 2)
+
+
+
+local function viewportPoint(ret, ...)
+    if type(ret) == "boolean" then
+        local pos, vis = workspace.CurrentCamera:WorldToViewportPoint(...)
+        return pos
+    else
+        return workspace.CurrentCamera:WorldToViewportPoint(ret, ...)
+    end
+end
+
+
+local function GetPlayer()
+    local last_distance = math.huge
+    local target = nil
+
+    for i, v in pairs(workspace:GetChildren()) do
+        if v:IsA("Model") and v:FindFirstChild("Humanoid") and v.Name ~= "Player" then
+            if v.Humanoid.Health ~= 0 and v.PrimaryPart ~= nil and v:FindFirstChild("Head") then
+                local sp, visible = viewportPoint(v:WaitForChild("HumanoidRootPart", math.huge).Position)
+                local mouse_loc = UIS:GetMouseLocation()
+                local distance = (Vector2.new(mouse_loc.X, mouse_loc.Y) - Vector2.new(sp.X, sp.Y)).Magnitude
+
+                local pos = Camera.WorldToViewportPoint(Camera, v.PrimaryPart.Position)
+
+            if distance < last_distance and distance < fovcircle2.Radius then
+
+                last_distance = distance
+                target = v
+
+            end
+        end
+    end
+end
+
+    return target
+end
+
+
+local Sensitivity = 1
+
+local LoopBad = nil
+MovementPrediction = true
+local AimbotSensitivity = 1
+
+local Mouse = game.Players.LocalPlayer:GetMouse()
+
+local function AimToPosition(Position)
+	local AimX = ((Position.X - Mouse.X) + 0) / AimbotSensitivity
+    local AimY = ((Position.Y - Mouse.Y - 36) + 0) / AimbotSensitivity
+    return AimX, AimY
+end
+
+
+
+
+
+
+
+local AimbotEnabled = false
+
+local Key = Enum.UserInputType.MouseButton2
+
+local RunService = game:GetService("RunService")
+
+local OldPosition = nil
+
+local function CalculateVelocity(Before, After, deltaTime)
+	-- // Vars
+	local Displacement = (After - Before)
+	local Velocity = Displacement / deltaTime
+
+	-- // Return
+	return Velocity
+end
+
+
+
+local function viewportPoint(ret, ...)
+    if type(ret) == "boolean" then
+        local pos, vis = workspace.CurrentCamera:WorldToViewportPoint(...)
+        return pos
+    else
+        return workspace.CurrentCamera:WorldToViewportPoint(ret, ...)
+    end
+end
+
+
+local PredictionSmoothness = 1
+
+local UIS = game:GetService("UserInputService")
+
+local BoostAim = UIS.MouseDeltaSensitivity
+
+local DefaultUIS = UIS.MouseDeltaSensitivity
+
+local Middle = game.Workspace.Ignore.LocalCharacter.Middle
+
+
+local Cheese2 = "Head"
+
+UIS.InputBegan:Connect(function(input, gameProcessedEvent)
+    if input.UserInputType == Key then
+        Aiming = true
+        LoopBad = RunService.RenderStepped:Connect(function(dt)
+            if Aiming and AimbotEnabled == true then
+                local p = nil
+                if not TargetRN then
+                     p = GetPlayer()
+                     if p then
+                        TargetRN = p
+                     end
+                else
+                    p = TargetRN
+                end
+                if not p then return end
+        
+                if p ~= nil then
+                    UIS.MouseDeltaSensitivity = BoostAim
+                    local CurrentPosition = p.HumanoidRootPart.Position
+                    if OldPosition == nil then
+                        OldPosition = CurrentPosition
+                    end
+                    local Velocity = CalculateVelocity(OldPosition,CurrentPosition,dt)
+                    local Prediction = Vector3.new(0, 0, 0)
+                    if MovementPrediction == true then
+                        if Cheese2 == "Head" then
+                            Prediction = Velocity * (PredictionSmoothness / 10) * (Middle.Position - p.Head.Position).magnitude / 100
+                        end
+                        if Cheese2 == "UpperTorso" then
+                            Prediction = Velocity * (PredictionSmoothness / 10) * (Middle.Position - p.UpperTorso.Position).magnitude / 100
+                        end
+                        if Cheese2 == "HumanoidRootPart" then
+                            Prediction = Velocity * (PredictionSmoothness / 10) * (Middle.Position - p.HumanoidRootPart.Position).magnitude / 100
+                        end
+                    end
+
+                    OldPosition = CurrentPosition
+
+
+                    if Cheese2 == "Head" then
+                        local AimAt = Camera:WorldToViewportPoint(p.Head.Position + Prediction)
+                        mousemoverel(AimToPosition(Vector2.new(AimAt.X, AimAt.Y)))
+                    end
+                    if Cheese2 == "UpperTorso" then
+                        AimAt = Camera:WorldToViewportPoint(p.UpperTorso.Position + Prediction)
+                        mousemoverel(AimToPosition(Vector2.new(AimAt.X, AimAt.Y)))
+                    end
+                    if Cheese2 == "HumanoidRootPart" then
+                        AimAt = Camera:WorldToViewportPoint(p.HumanoidRootPart.Position + Prediction)
+                        mousemoverel(AimToPosition(Vector2.new(AimAt.X, AimAt.Y)))
+                    end
+                end
+            end
+        end)
+    end
+end)
+
+local OldDelta = UIS.MouseDeltaSensitivity
+
+UIS.InputEnded:Connect(function(input, gameProcessedEvent)
+    if input.UserInputType == Key then
+        Aiming = false
+        UIS.MouseDeltaSensitivity = OldDelta
+        OldPosition = nil
+        local success, errormessage = pcall(function()
+            LoopBad:Disconnect()
+        end)
+        if not success then
+            warn(errormessage)
+        end
+        UIS.MouseDeltaSensitivity = DefaultUIS
+        TargetRN = nil
+    end
+end)
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Silent Aim
+
+local _Network = getrenv()._G.Network;
+local _Player = getrenv()._G.Player;
+local _Character = getrenv()._G.Character;
+local l__NEXT__2 = getrenv()._G.NEXT;
+
+local Players = game:GetService("Players");
+local LocalPlayer = Players.LocalPlayer;
+local Camera = game:GetService("Workspace").Camera;
+local CurrentCamera = game:GetService("Workspace").CurrentCamera
+local Mouse = LocalPlayer:GetMouse();
+local worldToViewportPoint = CurrentCamera.worldToViewportPoint
+local camera = game:GetService("Workspace").Camera;
+local UIS = game:GetService("UserInputService")
+
+getgenv()._SilentAim = {
+    Enabled = false,
+    Silent_Target = nil,
+}
+
+
+-- Silent FOV
+
+local vector3_new, vector2_new = Vector3.new, Vector2.new
+
+local fovcircle = Drawing.new("Circle")
+fovcircle.Visible = false
+fovcircle.Radius = 0
+fovcircle.Color = Color3.fromRGB(255,255,255)
+fovcircle.Thickness = 1
+fovcircle.Filled = false
+fovcircle.Transparency = 1
+fovcircle.Position = vector2_new(Camera.ViewportSize.X / 2, Camera.ViewportSize.Y / 2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Extra Shit
+
+local PipePistolDerect = require(game.ReplicatedStorage.ItemConfigs.PipePistol)
+local PipeSMGDerect = require(game.ReplicatedStorage.ItemConfigs.PipeSMG)
+local USPDerect = require(game.ReplicatedStorage.ItemConfigs.USP)
+local HMARDerect = require(game.ReplicatedStorage.ItemConfigs.HMAR)
+local CrossbowDerect = require(game.ReplicatedStorage.ItemConfigs.Crossbow)
+local BowDerect = require(game.ReplicatedStorage.ItemConfigs.Bow)
+local BlunderbussDerect = require(game.ReplicatedStorage.ItemConfigs.Blunderbuss)
+local BowDerect = require(game.ReplicatedStorage.ItemConfigs.Bow)
+local DerectCrossbow = require(game.ReplicatedStorage.ItemConfigs.Crossbow)
+local BlunderbussDerect = require(game.ReplicatedStorage.ItemConfigs.Blunderbuss)
+
+local KatanaDerect = require(game.ReplicatedStorage.ItemConfigs.Katana)
+local HammerDerect = require(game.ReplicatedStorage.ItemConfigs.Hammer)
+local SteelHammerDerect = require(game.ReplicatedStorage.ItemConfigs.SteelHammer)
+local IronHammerDerect = require(game.ReplicatedStorage.ItemConfigs.IronHammer)
+local StoneHammerDerect = require(game.ReplicatedStorage.ItemConfigs.StoneHammer)
+local CrowbarDerect = require(game.ReplicatedStorage.ItemConfigs.Crowbar)
+
+
+
+
+
+-- Recoil
+
+local PipePistol = PipePistolDerect.recoilPattern
+local PipeSMG = PipeSMGDerect.recoilPattern
+local USP = USPDerect.recoilPattern
+local HMAR = HMARDerect.recoilPattern
+local Crossbow = CrossbowDerect.recoilPattern
+local Bow = BowDerect.recoilPattern
+local Blunderbuss = BlunderbussDerect.recoilPattern
+
+-- Accuracy
+
+local PipePistol2 = PipePistolDerect.accuracy
+local PipeSMG2 = PipeSMGDerect.accuracy
+local USP2 = USPDerect.accuracy
+local HMAR2 = HMARDerect.accuracy
+local Crossbow2 = CrossbowDerect.accuracy
+local Bow2 = BowDerect.accuracy
+local Blunderbuss2 = BlunderbussDerect.accuracy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Library
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/wally-rblx/LinoriaLib/main/Library.lua'))()
+local ThemeManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/wally-rblx/LinoriaLib/main/addons/ThemeManager.lua'))()
+local SaveManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/wally-rblx/LinoriaLib/main/addons/SaveManager.lua'))()
+-- Window, Watermark
+local Window = Library:CreateWindow({
+    Title = 'hello kitty stan',
+    Center = true, 
+    AutoShow = true,
+})
+Library:SetWatermark('hello kitty stan')
+-- Services
+local Players = game:GetService("Players");
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local SoundService = game:GetService("SoundService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+-- Player Interact
+local LocalPlayer = Players.LocalPlayer;
+local Mouse = LocalPlayer:GetMouse();
+local Camera = workspace.CurrentCamera
+local _Character = getrenv()._G.Character;
+local Cameras = game:GetService("Workspace").Camera;
+local CurrentCamera = game:GetService("Workspace").CurrentCamera
+local worldToViewportPoint = CurrentCamera.worldToViewportPoint
+-- MetaTables
+local gmt = getrawmetatable(game)
+setreadonly(gmt, false)
+local oldindex = gmt.__index
+-- Updaters
+local LeavesRemoverOn = false
+local HomeRayOn = false
+local ZoomOn = false
+local AimbotOn = false
+local HRTransp = 0.6
+-- Cfg
+local fovcircle = Drawing.new("Circle")
+local Config = {
+    Esp = {
+        Box               = false,
+        BoxOutline        = false,
+        BoxColor          = Color3.fromRGB(255,255,255),
+        BoxOutlineColor   = Color3.fromRGB(0,0,0),
+        HealthBar         = false,
+        HealthBarSide     = "Left", -- Left,Bottom,Right
+        Names             = false,
+        Tool              = false,
+        Skeletons         = false,
+        SkeletonsColor    = Color3.fromRGB(255,255,255),
+        Tracers           = false,
+        TracersColor      = Color3.fromRGB(255,255,255),
+        NamesOutline      = false,
+        NamesColor        = Color3.fromRGB(255,255,255),
+        NamesOutlineColor = Color3.fromRGB(0,0,0),
+        NamesFont         = 2, -- 1,2,3
+        NamesSize         = 13,
+    },
+
+	ObjectEsp = {
+		Stone          = false,
+		Iron           = false,
+		Nitrate        = false,
+		Loot           = false,
+		Lootbags       = false,
+	},
+
+    Aimlock = {
+        Enabled     = false,
+        Smoothness  = 20,
+        Distance    = 300,
+        AimSleepers = false,
+        AimVisible  = false,
+    },
+
+    Hitboxes = {
+        Transparency     = 0.8,
+        XSize            = 3,
+        YSize            = 6,
+        ZSize            = 2,
+    },
+}
+
+fovcircle.Visible      = false
+fovcircle.Radius       = 120
+fovcircle.Color        = Color3.fromRGB(255,255,255)
+fovcircle.Thickness    = 1
+fovcircle.Filled       = false
+fovcircle.Transparency = 1
+fovcircle.Position     = Vector2.new(CurrentCamera.ViewportSize.X / 2, CurrentCamera.ViewportSize.Y / 2)
+-- Tabs
+local VisualsTab = Window:AddTab('Visuals')
+local CombatTab = Window:AddTab('Combat')
+local MiscTab = Window:AddTab('Misc')
+local UITab = Window:AddTab('UI')
+local MenuGroup = UITab:AddLeftGroupbox('Menu')
+MenuGroup:AddButton('Unload', function() Library:Unload() end)
+Library:OnUnload(function()
+    Library.Unloaded = true
+end)
+-- GetClosestPlayerToPlayer
+function getClosestPlayerToPlayer()
+    local closestPlayer = nil;
+    local shortestDistance = Config.Aimlock.Distance;
+    for i, v in pairs(workspace:GetChildren()) do
+        if v:IsA("Model") and v:FindFirstChild("Humanoid") and v.Name then
+            if v.Humanoid.Health ~= 0 and v.PrimaryPart ~= nil and v:FindFirstChild("Head") then
+                local pos = Cameras.WorldToViewportPoint(Cameras, v.PrimaryPart.Position)
+                local magnitude = (_Character.character.Middle.Position - v.PrimaryPart.Position).magnitude
+                local fovmagnitude = (Vector2.new(pos.X, pos.Y) - Vector2.new(Mouse.X, Mouse.Y)).magnitude
+                
+                if magnitude < shortestDistance then
+                    if fovmagnitude < 120 then
+                        closestPlayer = v
+                        shortestDistance = magnitude
+                    end
+                end
+            end
+        end
+    end
+    return closestPlayer
+end
+--
+local Typing = false
+
+local ViewportSize_ = Camera.ViewportSize / 2
+local Axis_X, Axis_Y = ViewportSize_.X, ViewportSize_.Y
+
+local HorizontalLine = Drawing.new("Line")
+local VerticalLine = Drawing.new("Line")
+
+_G.ToMouse = true
+
+_G.CrosshairVisible = false
+_G.CrosshairSize = 10
+_G.CrosshairThickness = 1
+_G.CrosshairColor = Color3.fromRGB(255, 0, 0)
+_G.CrosshairTransparency = 1
+
+RunService.RenderStepped:Connect(function()
+    local Real_Size = _G.CrosshairSize / 2
+
+    HorizontalLine.Color = _G.CrosshairColor
+    HorizontalLine.Thickness = _G.CrosshairThickness
+    HorizontalLine.Visible = _G.CrosshairVisible
+    HorizontalLine.Transparency = _G.CrosshairTransparency
+    
+    VerticalLine.Color = _G.CrosshairColor
+    VerticalLine.Thickness = _G.CrosshairThickness
+    VerticalLine.Visible = _G.CrosshairVisible
+    VerticalLine.Transparency = _G.CrosshairTransparency
+    
+    if _G.ToMouse == true then
+        HorizontalLine.From = Vector2.new(UserInputService:GetMouseLocation().X - Real_Size, UserInputService:GetMouseLocation().Y)
+        HorizontalLine.To = Vector2.new(UserInputService:GetMouseLocation().X + Real_Size, UserInputService:GetMouseLocation().Y)
+        
+        VerticalLine.From = Vector2.new(UserInputService:GetMouseLocation().X, UserInputService:GetMouseLocation().Y - Real_Size)
+        VerticalLine.To = Vector2.new(UserInputService:GetMouseLocation().X, UserInputService:GetMouseLocation().Y + Real_Size)
+    elseif _G.ToMouse == false then
+        HorizontalLine.From = Vector2.new(Axis_X - Real_Size, Axis_Y)
+        HorizontalLine.To = Vector2.new(Axis_X + Real_Size, Axis_Y)
+    
+        VerticalLine.From = Vector2.new(Axis_X, Axis_Y - Real_Size)
+        VerticalLine.To = Vector2.new(Axis_X, Axis_Y + Real_Size)
+    end
+end)
+
+UserInputService.TextBoxFocused:Connect(function()
+    Typing = true
+end)
+
+UserInputService.TextBoxFocusReleased:Connect(function()
+    Typing = false
+end)
+-- Crosshair
+local CrossHairSector = MiscTab:AddLeftGroupbox('Crosshair')
+
+CrossHairSector:AddToggle('Cht', {
+    Text = 'Crosshair',
+    Default = false,
+    Tooltip = 'Off/on crosshair',
+})
+Toggles.Cht:OnChanged(function(Toggle)
+    _G.CrosshairVisible = Toggle
+end)
+
+CrossHairSector:AddToggle('Chtmt', {
+    Text = 'To Mouse',
+    Default = false,
+    Tooltip = 'Crosshair to mouse',
+})
+Toggles.Chtmt:OnChanged(function(Toggle)
+    _G.ToMouse = Toggle
+end)
+
+CrossHairSector:AddLabel('Color'):AddColorPicker('Chc', {
+    Default = Color3.fromRGB(255,255,255),
+    Title = 'Color',
+})
+Options.Chc:OnChanged(function(Color)
+    _G.CrosshairColor = Color
+end)
+
+CrossHairSector:AddSlider('Chs', {
+    Text = 'Size',
+    Default = 15,
+    Min = 0,
+    Max = 100,
+    Rounding = 0,
+    Compact = false,
+})
+Options.Chs:OnChanged(function(Slider)
+    _G.CrosshairSize = Slider
+end)
+
+CrossHairSector:AddSlider('chtr', {
+    Text = 'Transparency',
+    Default = 1,
+    Min = 0,
+    Max = 1,
+    Rounding = 1,
+    Compact = false,
+})
+Options.chtr:OnChanged(function(Slider)
+    _G.CrosshairTransparency = Slider
+end)
+--
+local WorldGroupTab = VisualsTab:AddRightTabbox("World")
+local WorldTab = WorldGroupTab:AddTab('World')
+local GameTab = WorldGroupTab:AddTab('XRay')
+local PlayerTab = WorldGroupTab:AddTab('Player')
+-- HomeRay
+GameTab:AddLabel('XRay'):AddKeyPicker('Hrk', {
+    Default = 'T', 
+    SyncToggleState = false, 
+    Mode = 'Toggle',
+    Text = 'XRay',
+    NoUI = false,
+})
+Options.Hrk:OnClick(function()
+    if HomeRayOn == false then
+        HomeRayOn = true
+        for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+            if v:FindFirstChild("Hitbox") then
+                v.Hitbox.Transparency = HRTransp
+            end
+        end
+    else
+        HomeRayOn = false
+        for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+            if v:FindFirstChild("Hitbox") then
+                v.Hitbox.Transparency = 0
+            end
+        end
+    end
+end)
+GameTab:AddSlider('Hrts', {
+    Text = 'Transparency',
+    Default = 0.9,
+    Min = 0,
+    Max = 1,
+    Rounding = 1,
+    Compact = false,
+})
+Options.Hrts:OnChanged(function(Slider)
+    HRTransp = Slider
+end)
+-- Leaves Remove
+WorldTab:AddButton('Leaves Remove', function()
+    LeavesRemoverOn = true
+    while LeavesRemoverOn == true do
+        for v, i in pairs(game:GetService("Workspace"):GetChildren()) do
+            if i:FindFirstChild("Part") then
+                if i:FindFirstChild("top") then
+                    i.top:Remove()
+                else
+                    for x,b in pairs(i:GetChildren()) do
+                        if b.ClassName == "MeshPart" and b.MeshId == "rbxassetid://743205322" then
+                            b:Remove()
+                        end
+                    end
+                end
+            end
+        end
+    wait(5)
+    end
+end)
+WorldTab:AddButton('Full Bright', function()
+if not _G.FullBrightExecuted then
+
+	_G.FullBrightEnabled = false
+
+	_G.NormalLightingSettings = {
+		Brightness = game:GetService("Lighting").Brightness,
+		ClockTime = game:GetService("Lighting").ClockTime,
+		FogEnd = game:GetService("Lighting").FogEnd,
+		GlobalShadows = game:GetService("Lighting").GlobalShadows,
+		Ambient = game:GetService("Lighting").Ambient
+	}
+
+	game:GetService("Lighting"):GetPropertyChangedSignal("Brightness"):Connect(function()
+		if game:GetService("Lighting").Brightness ~= 1 and game:GetService("Lighting").Brightness ~= _G.NormalLightingSettings.Brightness then
+			_G.NormalLightingSettings.Brightness = game:GetService("Lighting").Brightness
+			if not _G.FullBrightEnabled then
+				repeat
+					wait()
+				until _G.FullBrightEnabled
+			end
+			game:GetService("Lighting").Brightness = 1
+		end
+	end)
+
+	game:GetService("Lighting"):GetPropertyChangedSignal("ClockTime"):Connect(function()
+		if game:GetService("Lighting").ClockTime ~= 12 and game:GetService("Lighting").ClockTime ~= _G.NormalLightingSettings.ClockTime then
+			_G.NormalLightingSettings.ClockTime = game:GetService("Lighting").ClockTime
+			if not _G.FullBrightEnabled then
+				repeat
+					wait()
+				until _G.FullBrightEnabled
+			end
+			game:GetService("Lighting").ClockTime = 12
+		end
+	end)
+
+	game:GetService("Lighting"):GetPropertyChangedSignal("FogEnd"):Connect(function()
+		if game:GetService("Lighting").FogEnd ~= 786543 and game:GetService("Lighting").FogEnd ~= _G.NormalLightingSettings.FogEnd then
+			_G.NormalLightingSettings.FogEnd = game:GetService("Lighting").FogEnd
+			if not _G.FullBrightEnabled then
+				repeat
+					wait()
+				until _G.FullBrightEnabled
+			end
+			game:GetService("Lighting").FogEnd = 786543
+		end
+	end)
+
+	game:GetService("Lighting"):GetPropertyChangedSignal("GlobalShadows"):Connect(function()
+		if game:GetService("Lighting").GlobalShadows ~= false and game:GetService("Lighting").GlobalShadows ~= _G.NormalLightingSettings.GlobalShadows then
+			_G.NormalLightingSettings.GlobalShadows = game:GetService("Lighting").GlobalShadows
+			if not _G.FullBrightEnabled then
+				repeat
+					wait()
+				until _G.FullBrightEnabled
+			end
+			game:GetService("Lighting").GlobalShadows = false
+		end
+	end)
+
+	game:GetService("Lighting"):GetPropertyChangedSignal("Ambient"):Connect(function()
+		if game:GetService("Lighting").Ambient ~= Color3.fromRGB(178, 178, 178) and game:GetService("Lighting").Ambient ~= _G.NormalLightingSettings.Ambient then
+			_G.NormalLightingSettings.Ambient = game:GetService("Lighting").Ambient
+			if not _G.FullBrightEnabled then
+				repeat
+					wait()
+				until _G.FullBrightEnabled
+			end
+			game:GetService("Lighting").Ambient = Color3.fromRGB(178, 178, 178)
+		end
+	end)
+
+	game:GetService("Lighting").Brightness = 1
+	game:GetService("Lighting").ClockTime = 12
+	game:GetService("Lighting").FogEnd = 786543
+	game:GetService("Lighting").GlobalShadows = false
+	game:GetService("Lighting").Ambient = Color3.fromRGB(178, 178, 178)
+
+	local LatestValue = true
+	spawn(function()
+		repeat
+			wait()
+		until _G.FullBrightEnabled
+		while wait() do
+			if _G.FullBrightEnabled ~= LatestValue then
+				if not _G.FullBrightEnabled then
+					game:GetService("Lighting").Brightness = _G.NormalLightingSettings.Brightness
+					game:GetService("Lighting").ClockTime = _G.NormalLightingSettings.ClockTime
+					game:GetService("Lighting").FogEnd = _G.NormalLightingSettings.FogEnd
+					game:GetService("Lighting").GlobalShadows = _G.NormalLightingSettings.GlobalShadows
+					game:GetService("Lighting").Ambient = _G.NormalLightingSettings.Ambient
+				else
+					game:GetService("Lighting").Brightness = 1
+					game:GetService("Lighting").ClockTime = 12
+					game:GetService("Lighting").FogEnd = 786543
+					game:GetService("Lighting").GlobalShadows = false
+					game:GetService("Lighting").Ambient = Color3.fromRGB(178, 178, 178)
+				end
+				LatestValue = not LatestValue
+			end
+		end
+	end)
+end
+
+_G.FullBrightExecuted = true
+_G.FullBrightEnabled = not _G.FullBrightEnabled
+end)
+-- Shadows
+WorldTab:AddToggle('Gs',{
+    Text = 'Shadows',
+    Default = true,
+    Tooltip = "Off/On GlobalShadows",
+})
+Toggles.Gs:OnChanged(function(T)
+    game:GetService("Lighting").GlobalShadows = T
+end)
+-- 3D Clouds
+WorldTab:AddToggle('Clh',{
+    Text = '3D Clouds',
+    Default = true,
+    Tooltip = "Off/On 3d clouds",
+})
+Toggles.Clh:OnChanged(function(T)
+    if T == true then
+        game:GetService("Workspace").Terrain.Clouds.Enabled = true
+    elseif T == false then
+        game:GetService("Workspace").Terrain.Clouds.Enabled = false
+    end
+end)
+-- Grass
+WorldTab:AddToggle('Gr', {
+    Text = 'Grass',
+    Default = true,
+    Tooltip = 'Off/on grass',
+})
+Toggles.Gr:OnChanged(function(GrassRemove)
+    sethiddenproperty(game.Workspace.Terrain, "Decoration", GrassRemove)
+end)
+-- Color Grass
+local Terrain = game:GetService("Workspace").Terrain
+local GCEN = Color3.fromRGB(93, 111, 55)
+local GRCEND = false
+WorldTab:AddToggle('CLRG',{
+    Text = 'Color Grass',
+    Default = false,
+    Tooltip = "Off/On",
+})
+Toggles.CLRG:OnChanged(function(T)
+    if T == true then
+        GRCEND = true
+        local SetColor = Terrain:SetMaterialColor(Enum.Material.Grass,GCEN)
+    elseif T == false then
+        GRCEND = false
+        local SetColor = Terrain:SetMaterialColor(Enum.Material.Grass,Color3.fromRGB(93, 111, 55))
+    end
+end)
+
+WorldTab:AddLabel('Colorgrass'):AddColorPicker('ColorGrass', {
+    Default = Color3.fromRGB(93, 111, 55),
+    Title = 'Changer Color Grass', 
+})
+Options.ColorGrass:OnChanged(function(Grass1)
+    if GRCEND == true then
+        GCEN = Grass1
+        local SetColor = Terrain:SetMaterialColor(Enum.Material.Grass, Grass1) 
+    else
+        
+    end
+end)
+-- Fov
+local CurrentFovChanged = 70
+PlayerTab:AddSlider('Fc', {
+    Text = 'Fov Changer',
+    Default = 70,
+    Min = 0,
+    Max = 140,
+    Rounding = 0,
+    Compact = false,
+}):OnChanged(function(t)
+    CurrentFovChanged = t
+    gmt.__index = newcclosure(function(self,b)
+        if b == "FieldOfView" then
+            return t
+        end
+        return oldindex(self,b)
+    end)
+end)
+PlayerTab:AddButton('Remove Blood', function()
+local playerGui = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+local ui = playerGui:WaitForChild("UI")
+
+while true do
+  for i, child in ipairs(ui:GetChildren()) do
+    if child.Name == "BloodSplatter" then
+      child:Destroy()
+    end
+  end
+  wait(1)
+end
+end)
+-- Zoom
+PlayerTab:AddLabel('Zoom'):AddKeyPicker('ZoomPick', {
+    Default = 'X', 
+    SyncToggleState = false, 
+    Mode = 'Toggle',
+    Text = 'Zoom',
+    NoUI = false,
+})
+Options.ZoomPick:OnClick(function()
+    if ZoomOn == false then
+        ZoomOn = true
+        gmt.__index = newcclosure(function(self,b)
+            if b == "FieldOfView" then
+                return 1
+            end
+            return oldindex(self,b)
+        end)
+    elseif ZoomOn == true then
+        ZoomOn = false
+        gmt.__index = newcclosure(function(self,b)
+            if b == "FieldOfView" then
+                return CurrentFovChanged
+            end
+            return oldindex(self,b)
+        end)
+    end
+end)
+-- PickupAll
+
+--
+local ChangerGroupTab = VisualsTab:AddRightTabbox("Arm Visuals")
+local ArmVisualsTab = ChangerGroupTab:AddTab('Arms')
+local GunVisualsTab = ChangerGroupTab:AddTab('Gun')
+local SoundVisualsTab = ChangerGroupTab:AddTab('Sound')
+-- Arms
+ArmVisualsTab:AddButton('Default', function()
+    game:GetService("Workspace").Ignore.FPSArms.RightUpperArm.BrickColor = BrickColor.new("Linen")
+    game:GetService("Workspace").Ignore.FPSArms.RightLowerArm.BrickColor = BrickColor.new("Linen")
+    game:GetService("Workspace").Ignore.FPSArms.RightHand.BrickColor = BrickColor.new("Linen")
+    game:GetService("Workspace").Ignore.FPSArms.LeftUpperArm.BrickColor = BrickColor.new("Linen")
+    game:GetService("Workspace").Ignore.FPSArms.LeftLowerArm.BrickColor = BrickColor.new("Linen")
+    game:GetService("Workspace").Ignore.FPSArms.LeftHand.BrickColor = BrickColor.new("Linen")
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Handle.BrickColor = BrickColor.new("Cool yellow")
+end)
+
+local CARMS = false
+
+ArmVisualsTab:AddToggle('CLRT',{
+    Text = 'Color Arms',
+    Default = false,
+    Tooltip = "Off/On",
+})
+Toggles.CLRT:OnChanged(function(T)
+    CARMS = T
+end)
+
+ArmVisualsTab:AddLabel('Color'):AddColorPicker('ARCCCC', {
+    Default = Color3.fromRGB(255,255,255),
+    Title = 'Arms Color',
+})
+Options.ARCCCC:OnChanged(function(ARMC)
+    if CARMS then
+        game:GetService("Workspace").Ignore.FPSArms.RightUpperArm.Color = ARMC
+        game:GetService("Workspace").Ignore.FPSArms.RightLowerArm.Color = ARMC
+        game:GetService("Workspace").Ignore.FPSArms.RightHand.Color = ARMC
+        game:GetService("Workspace").Ignore.FPSArms.LeftUpperArm.Color = ARMC
+        game:GetService("Workspace").Ignore.FPSArms.LeftLowerArm.Color = ARMC
+        game:GetService("Workspace").Ignore.FPSArms.LeftHand.Color = ARMC
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Handle.Color = ARMC
+    else
+        game:GetService("Workspace").Ignore.FPSArms.RightUpperArm.BrickColor = BrickColor.new("Linen")
+        game:GetService("Workspace").Ignore.FPSArms.RightLowerArm.BrickColor = BrickColor.new("Linen")
+        game:GetService("Workspace").Ignore.FPSArms.RightHand.BrickColor = BrickColor.new("Linen")
+        game:GetService("Workspace").Ignore.FPSArms.LeftUpperArm.BrickColor = BrickColor.new("Linen")
+        game:GetService("Workspace").Ignore.FPSArms.LeftLowerArm.BrickColor = BrickColor.new("Linen")
+        game:GetService("Workspace").Ignore.FPSArms.LeftHand.BrickColor = BrickColor.new("Linen")
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Handle.BrickColor = BrickColor.new("Cool yellow")
+    end
+end)
+ArmVisualsTab:AddDropdown('MaterialD', {
+    Values = { 'Default', 'ForceField', 'Neon', 'CrackedLava' },
+    Default = 1, 
+    Multi = false, 
+    Text = 'Arm Material',
+    Tooltip = 'Arms Material', 
+}):OnChanged(function()
+    if Options.MaterialD.Value == "Default" then
+        game:GetService("Workspace").Ignore.FPSArms.RightUpperArm.Material = "Plastic"
+        game:GetService("Workspace").Ignore.FPSArms.RightLowerArm.Material = "Plastic"
+        game:GetService("Workspace").Ignore.FPSArms.RightHand.Material = "Plastic"
+        game:GetService("Workspace").Ignore.FPSArms.LeftUpperArm.Material = "Plastic"
+        game:GetService("Workspace").Ignore.FPSArms.LeftLowerArm.Material = "Plastic"
+        game:GetService("Workspace").Ignore.FPSArms.LeftHand.Material = "Plastic"
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Handle.Material = "Plastic"
+    end
+
+    if Options.MaterialD.Value == "ForceField" then
+        game:GetService("Workspace").Ignore.FPSArms.RightUpperArm.Material = "ForceField"
+        game:GetService("Workspace").Ignore.FPSArms.RightLowerArm.Material = "ForceField"
+        game:GetService("Workspace").Ignore.FPSArms.RightHand.Material = "ForceField"
+        game:GetService("Workspace").Ignore.FPSArms.LeftUpperArm.Material = "ForceField"
+        game:GetService("Workspace").Ignore.FPSArms.LeftLowerArm.Material = "ForceField"
+        game:GetService("Workspace").Ignore.FPSArms.LeftHand.Material = "ForceField"
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Handle.Material = "ForceField"
+    end
+
+    if Options.MaterialD.Value == "Neon" then
+        game:GetService("Workspace").Ignore.FPSArms.RightUpperArm.Material = "Neon"
+        game:GetService("Workspace").Ignore.FPSArms.RightLowerArm.Material = "Neon"
+        game:GetService("Workspace").Ignore.FPSArms.RightHand.Material = "Neon"
+        game:GetService("Workspace").Ignore.FPSArms.LeftUpperArm.Material = "Neon"
+        game:GetService("Workspace").Ignore.FPSArms.LeftLowerArm.Material = "Neon"
+        game:GetService("Workspace").Ignore.FPSArms.LeftHand.Material = "Neon"
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Handle.Material = "Neon"
+    end
+
+    if Options.MaterialD.Value == "CrackedLava" then
+        game:GetService("Workspace").Ignore.FPSArms.RightUpperArm.Material = "CrackedLava"
+        game:GetService("Workspace").Ignore.FPSArms.RightLowerArm.Material = "CrackedLava"
+        game:GetService("Workspace").Ignore.FPSArms.RightHand.Material = "CrackedLava"
+        game:GetService("Workspace").Ignore.FPSArms.LeftUpperArm.Material = "CrackedLava"
+        game:GetService("Workspace").Ignore.FPSArms.LeftLowerArm.Material = "CrackedLava"
+        game:GetService("Workspace").Ignore.FPSArms.LeftHand.Material = "CrackedLava"
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Handle.Material = "CrackedLava"
+    end
+end)
+-- Guns
+GunVisualsTab:AddButton('Set Default All', function()
+    -- material
+    -- hmar
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Barrel.Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Body.Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Bolt.Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Stock.Material = Enum.Material.Wood
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Grip.Material = Enum.Material.Wood
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Mag.Material = Enum.Material.Plastic
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Muzzle.Material = Enum.Material.Wood
+    game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.ADS.Material = Enum.Material.Plastic
+    game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.Union.Material = Enum.Material.Metal
+    -- pipesmg
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.ADS.Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.Union.Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.Mag.Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.Flap.Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.Muzzle.Material = Enum.Material.Plastic
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.Body.Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.Bolt.Material = Enum.Material.Metal
+    -- usp
+    game:GetService("ReplicatedStorage").HandModels.USP.IronSights.ADS.Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.USP.IronSights.Union.Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.USP.Muzzle.Material = Enum.Material.Plastic
+    game:GetService("ReplicatedStorage").HandModels.USP.Mag.Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Slide"].Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Body"].Material = Enum.Material.Metal
+    -- pipe
+    game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights.ADS.Material = Enum.Material.Plastic
+    game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights["Meshes/PipePistolSights"].Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.PipePistol.Muzzle.Material = Enum.Material.Plastic
+    game:GetService("ReplicatedStorage").HandModels.PipePistol.Mag.Material = Enum.Material.Plastic
+    game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBody"].Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBolt"].Material = Enum.Material.Metal
+    -- crossbow
+    game:GetService("ReplicatedStorage").HandModels.Crossbow.Arrow.Material = Enum.Material.Wood
+    game:GetService("ReplicatedStorage").HandModels.Crossbow["Meshes/Bow"].Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.Crossbow.Union.Material = Enum.Material.Metal
+    game:GetService("ReplicatedStorage").HandModels.Crossbow.Body.Material = Enum.Material.Wood
+    game:GetService("ReplicatedStorage").HandModels.Crossbow.Mover.Material = Enum.Material.CorrodedMetal
+    -- bow
+    game:GetService("ReplicatedStorage").HandModels.Bow.Arrow.Material = Enum.Material.Wood
+    game:GetService("ReplicatedStorage").HandModels.Bow["Meshes/Bow"].Material = Enum.Material.Wood 
+    game:GetService("ReplicatedStorage").HandModels.Bow.Fabric.Material = Enum.Material.Fabric
+
+    -- color
+    -- HMAR
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Barrel.BrickColor = BrickColor.new("Dark grey")
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Body.BrickColor = BrickColor.new("Dark stone grey")
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Bolt.BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Stock.BrickColor = BrickColor.new("Bronze")
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Grip.BrickColor = BrickColor.new("Bronze")
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Mag.BrickColor = BrickColor.new("Dark stone grey")
+    game:GetService("ReplicatedStorage").HandModels.HMAR.Muzzle.BrickColor = BrickColor.new("Bronze")
+    game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.ADS.BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.Union.BrickColor = BrickColor.new("Medium stone grey")
+    -----PipeSMG
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.ADS.BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.Union.BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.Mag.BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.Flap.BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.Muzzle.BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.Body.BrickColor = BrickColor.new("Dark stone grey")
+    game:GetService("ReplicatedStorage").HandModels.PipeSMG.Bolt.BrickColor = BrickColor.new("Medium stone grey")
+    -----USP
+    game:GetService("ReplicatedStorage").HandModels.USP.IronSights.ADS.BrickColor = BrickColor.new("Lime green")
+    game:GetService("ReplicatedStorage").HandModels.USP.IronSights.Union.BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.USP.Muzzle.BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.USP.Mag.BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Slide"].BrickColor = BrickColor.new("Silver flip/flop")
+    game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Body"].BrickColor = BrickColor.new("Dark stone grey")
+    -----Pipe
+    game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights.ADS.BrickColor = BrickColor.new("Dark stone grey")
+    game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights["Meshes/PipePistolSights"].BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.PipePistol.Muzzle.BrickColor = BrickColor.new("Dark stone grey")
+    game:GetService("ReplicatedStorage").HandModels.PipePistol.Mag.BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBody"].BrickColor = BrickColor.new("Dark stone grey")
+    game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBolt"].BrickColor = BrickColor.new("Medium stone grey")
+    -----Crossbow
+    game:GetService("ReplicatedStorage").HandModels.Crossbow.Arrow.BrickColor = BrickColor.new("Fawn brown")
+    game:GetService("ReplicatedStorage").HandModels.Crossbow["Meshes/Bow"].BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.Crossbow.Union.BrickColor = BrickColor.new("Medium stone grey")
+    game:GetService("ReplicatedStorage").HandModels.Crossbow.Body.BrickColor = BrickColor.new("Bronze")
+    game:GetService("ReplicatedStorage").HandModels.Crossbow.Mover.BrickColor = BrickColor.new("Medium stone grey")
+    -----Bow
+    game:GetService("ReplicatedStorage").HandModels.Bow.Arrow.BrickColor = BrickColor.new("Fawn brown")
+    game:GetService("ReplicatedStorage").HandModels.Bow["Meshes/Bow"].BrickColor = BrickColor.new("Bronze")
+    game:GetService("ReplicatedStorage").HandModels.Bow.Fabric.BrickColor = BrickColor.new("Beige")
+end)
+local GCTG = false
+GunVisualsTab:AddToggle('Tgc',{
+    Text = 'Gun Color',
+    Default = false,
+    Tooltip = "Off/On",
+})
+Toggles.Tgc:OnChanged(function(Toggle)
+    GCTG = Toggle
+end)
+
+GunVisualsTab:AddLabel('Color'):AddColorPicker('GunColor', {
+    Default = Color3.fromRGB(0, 1, 0),
+    Title = 'Changes gun colors', 
+})
+Options.GunColor:OnChanged(function(GunColor)
+    if GCTG == true then
+        -----HMAR
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Barrel.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Body.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Bolt.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Stock.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Grip.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Mag.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Muzzle.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.ADS.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.Union.Color = GunColor
+        -----PipeSMG
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.ADS.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.Union.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Mag.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Flap.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Muzzle.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Body.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Bolt.Color = GunColor
+        -----USP
+        game:GetService("ReplicatedStorage").HandModels.USP.IronSights.ADS.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.USP.IronSights.Union.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.USP.Muzzle.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.USP.Mag.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Slide"].Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Body"].Color = GunColor
+        -----Pipe
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights.ADS.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights["Meshes/PipePistolSights"].Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.Muzzle.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.Mag.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBody"].Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBolt"].Color = GunColor
+        -----Crossbow
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Arrow.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.Crossbow["Meshes/Bow"].Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Union.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Body.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Mover.Color = GunColor
+        -----Bow
+        game:GetService("ReplicatedStorage").HandModels.Bow.Arrow.Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.Bow["Meshes/Bow"].Color = GunColor
+        game:GetService("ReplicatedStorage").HandModels.Bow.Fabric.Color = GunColor
+    elseif GCTG == false then
+        -- HMAR
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Barrel.BrickColor = BrickColor.new("Dark grey")
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Body.BrickColor = BrickColor.new("Dark stone grey")
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Bolt.BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Stock.BrickColor = BrickColor.new("Bronze")
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Grip.BrickColor = BrickColor.new("Bronze")
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Mag.BrickColor = BrickColor.new("Dark stone grey")
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Muzzle.BrickColor = BrickColor.new("Bronze")
+        game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.ADS.BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.Union.BrickColor = BrickColor.new("Medium stone grey")
+        -----PipeSMG
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.ADS.BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.Union.BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Mag.BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Flap.BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Muzzle.BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Body.BrickColor = BrickColor.new("Dark stone grey")
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Bolt.BrickColor = BrickColor.new("Medium stone grey")
+        -----USP
+        game:GetService("ReplicatedStorage").HandModels.USP.IronSights.ADS.BrickColor = BrickColor.new("Lime green")
+        game:GetService("ReplicatedStorage").HandModels.USP.IronSights.Union.BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.USP.Muzzle.BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.USP.Mag.BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Slide"].BrickColor = BrickColor.new("Silver flip/flop")
+        game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Body"].BrickColor = BrickColor.new("Dark stone grey")
+        -----Pipe
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights.ADS.BrickColor = BrickColor.new("Dark stone grey")
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights["Meshes/PipePistolSights"].BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.Muzzle.BrickColor = BrickColor.new("Dark stone grey")
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.Mag.BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBody"].BrickColor = BrickColor.new("Dark stone grey")
+        game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBolt"].BrickColor = BrickColor.new("Medium stone grey")
+        -----Crossbow
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Arrow.BrickColor = BrickColor.new("Fawn brown")
+        game:GetService("ReplicatedStorage").HandModels.Crossbow["Meshes/Bow"].BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Union.BrickColor = BrickColor.new("Medium stone grey")
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Body.BrickColor = BrickColor.new("Bronze")
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Mover.BrickColor = BrickColor.new("Medium stone grey")
+        -----Bow
+        game:GetService("ReplicatedStorage").HandModels.Bow.Arrow.BrickColor = BrickColor.new("Fawn brown")
+        game:GetService("ReplicatedStorage").HandModels.Bow["Meshes/Bow"].BrickColor = BrickColor.new("Bronze")
+        game:GetService("ReplicatedStorage").HandModels.Bow.Fabric.BrickColor = BrickColor.new("Beige")
+    end
+end)
+
+GunVisualsTab:AddDropdown('MaterialV', {
+    Values = { 'Default', 'ForceField', 'Neon' },
+    Default = 1,
+    Multi = false,
+    Text = 'Gun Material',
+    Tooltip = 'NOT USEFUL WITH CUSTOM SKINS!',
+})
+Options.MaterialV:OnChanged(function()
+    if Options.MaterialV.Value == "Default" then
+        -----HMAR
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Barrel.Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Body.Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Bolt.Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Stock.Material = Enum.Material.Wood
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Grip.Material = Enum.Material.Wood
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Mag.Material = Enum.Material.Plastic
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Muzzle.Material = Enum.Material.Wood
+        game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.ADS.Material = Enum.Material.Plastic
+        game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.Union.Material = Enum.Material.Metal
+        -----PipeSMG
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.ADS.Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.Union.Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Mag.Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Flap.Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Muzzle.Material = Enum.Material.Plastic
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Body.Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Bolt.Material = Enum.Material.Metal
+        -----USP
+        game:GetService("ReplicatedStorage").HandModels.USP.IronSights.ADS.Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.USP.IronSights.Union.Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.USP.Muzzle.Material = Enum.Material.Plastic
+        game:GetService("ReplicatedStorage").HandModels.USP.Mag.Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Slide"].Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Body"].Material = Enum.Material.Metal
+        -----Pipe
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights.ADS.Material = Enum.Material.Plastic
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights["Meshes/PipePistolSights"].Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.Muzzle.Material = Enum.Material.Plastic
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.Mag.Material = Enum.Material.Plastic
+        game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBody"].Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBolt"].Material = Enum.Material.Metal
+        -----Crossbow
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Arrow.Material = Enum.Material.Wood
+        game:GetService("ReplicatedStorage").HandModels.Crossbow["Meshes/Bow"].Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Union.Material = Enum.Material.Metal
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Body.Material = Enum.Material.Wood
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Mover.Material = Enum.Material.CorrodedMetal
+        -----Bow
+        game:GetService("ReplicatedStorage").HandModels.Bow.Arrow.Material = Enum.Material.Wood
+        game:GetService("ReplicatedStorage").HandModels.Bow["Meshes/Bow"].Material = Enum.Material.Wood 
+        game:GetService("ReplicatedStorage").HandModels.Bow.Fabric.Material = Enum.Material.Fabric
+    elseif Options.MaterialV.Value == "ForceField" then
+        -----HMAR
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Barrel.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Body.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Bolt.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Stock.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Grip.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Mag.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Muzzle.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.ADS.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.Union.Material = Enum.Material.ForceField
+        -----PipeSMG
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.ADS.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.Union.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Mag.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Flap.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Muzzle.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Body.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Bolt.Material = Enum.Material.ForceField
+        -----USP
+        game:GetService("ReplicatedStorage").HandModels.USP.IronSights.ADS.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.USP.IronSights.Union.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.USP.Muzzle.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.USP.Mag.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Slide"].Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Body"].Material = Enum.Material.ForceField
+        -----Pipe
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights.ADS.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights["Meshes/PipePistolSights"].Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.Muzzle.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.Mag.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBody"].Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBolt"].Material = Enum.Material.ForceField
+        -----Crossbow
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Arrow.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.Crossbow["Meshes/Bow"].Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Union.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Body.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Mover.Material = Enum.Material.ForceField
+        -----Bow
+        game:GetService("ReplicatedStorage").HandModels.Bow.Arrow.Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.Bow["Meshes/Bow"].Material = Enum.Material.ForceField
+        game:GetService("ReplicatedStorage").HandModels.Bow.Fabric.Material = Enum.Material.ForceField
+    elseif Options.MaterialV.Value == "Neon" then
+        -----HMAR
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Barrel.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Body.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Bolt.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Stock.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Grip.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Mag.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.HMAR.Muzzle.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.ADS.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.HMAR.IronSights.Union.Material = Enum.Material.Neon
+        -----PipeSMG
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.ADS.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.IronSights.Union.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Mag.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Flap.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Muzzle.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Body.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.PipeSMG.Bolt.Material = Enum.Material.Neon
+        -----USP
+        game:GetService("ReplicatedStorage").HandModels.USP.IronSights.ADS.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.USP.IronSights.Union.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.USP.Muzzle.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.USP.Mag.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Slide"].Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.USP["Meshes/USP_Body"].Material = Enum.Material.Neon
+        -----Pipe
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights.ADS.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.IronSights["Meshes/PipePistolSights"].Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.Muzzle.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.PipePistol.Mag.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBody"].Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.PipePistol["Meshes/PipePistolBolt"].Material = Enum.Material.Neon
+        -----Crossbow
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Arrow.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.Crossbow["Meshes/Bow"].Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Union.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Body.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.Crossbow.Mover.Material = Enum.Material.Neon
+        -----Bow
+        game:GetService("ReplicatedStorage").HandModels.Bow.Arrow.Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.Bow["Meshes/Bow"].Material = Enum.Material.Neon
+        game:GetService("ReplicatedStorage").HandModels.Bow.Fabric.Material = Enum.Material.Neon
+    end
+end)
+-- Sounds
+SoundVisualsTab:AddDropdown('HeadshotHit', {
+    Values = { 'Default', 'Neverlose', 'Rust', 'TF2', 'Bruh', 'Hm, is nice', 'Osu', 'Weeb', 'Minecraft'},
+    Default = 1,
+    Multi = false,
+    Text = 'Hit Headshot',
+    Tooltip = 'Changes player hit headshot sound',
+})
+Options.HeadshotHit:OnChanged(function()
+    if Options.HeadshotHit.Value == "Default" then
+        SoundService.PlayerHitHeadshot.SoundId = "rbxassetid://9119561046"
+        SoundService.PlayerHitHeadshot.Playing = true
+    end
+
+    if Options.HeadshotHit.Value == "Neverlose" then
+        SoundService.PlayerHitHeadshot.SoundId = "rbxassetid://6607204501"
+        SoundService.PlayerHitHeadshot.Playing = true
+    end
+
+    if Options.HeadshotHit.Value == "Rust" then
+        SoundService.PlayerHitHeadshot.SoundId = "rbxassetid://1255040462"
+        SoundService.PlayerHitHeadshot.Playing = true
+    end
+
+    if Options.HeadshotHit.Value == "TF2" then
+        SoundService.PlayerHitHeadshot.SoundId = "rbxassetid://2868331684"
+        SoundService.PlayerHitHeadshot.Playing = true
+    end
+
+    if Options.HeadshotHit.Value == "Bruh" then
+        SoundService.PlayerHitHeadshot.SoundId = "rbxassetid://4275842574"
+        SoundService.PlayerHitHeadshot.Playing = true
+    end
+
+    if Options.HeadshotHit.Value == "Hm, is nice" then
+        SoundService.PlayerHitHeadshot.SoundId = "rbxassetid://5570758643"
+        SoundService.PlayerHitHeadshot.Playing = true
+    end
+
+    if Options.HeadshotHit.Value == "Osu" then
+        SoundService.PlayerHitHeadshot.SoundId = ("rbxassetid://7149255551")
+        SoundService.PlayerHitHeadshot.Playing = true
+    end
+
+    if Options.HeadshotHit.Value == "Weeb" then
+        SoundService.PlayerHitHeadshot.SoundId = ("rbxassetid://6442965016")
+        SoundService.PlayerHitHeadshot.Playing = true
+    end
+
+    if Options.HeadshotHit.Value == "Minecraft" then
+        SoundService.PlayerHitHeadshot.SoundId = ("rbxassetid://4018616850")
+        SoundService.PlayerHitHeadshot.Playing = true
+    end
+end)
+SoundVisualsTab:AddSlider('CVH', {
+    Text = 'Volume',
+    Default = 1,
+    Min = 0,
+    Max = 5,
+    Rounding = 1,
+    Compact = false,
+})
+Options.CVH:OnChanged(function(vol)
+    SoundService.PlayerHitHeadshot.Volume = vol
+end)
+
+--
+local ESPGroupbox = VisualsTab:AddLeftTabbox("Player ESP")
+local PlayerEspTab = ESPGroupbox:AddTab('Player ESP')
+local ObjectEspTab = ESPGroupbox:AddTab('Ore Esp')
+
+--rbxassetid://4667191660
+function CreateObjectEsp(name,text,color,P)
+    local ESP = Instance.new("BillboardGui")
+    local EspText = Instance.new("TextLabel")
+
+    ESP.Name = name
+    ESP.Parent = P
+    ESP.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    ESP.Active = true
+    ESP.AlwaysOnTop = true
+    ESP.LightInfluence = 1.000
+    ESP.Size = UDim2.new(0, 200, 0, 50)
+    ESP.SizeOffset = Vector2.new(0, 0.3)
+    ESP.Adornee = P
+
+    EspText.Name = "EspText"
+    EspText.Parent = ESP
+    EspText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    EspText.BackgroundTransparency = 1.000
+    EspText.Size = UDim2.new(0, 200, 0, 50)
+    EspText.Font = Enum.Font.FredokaOne
+    EspText.Text = text
+    EspText.TextColor3 = color
+    EspText.TextSize = 16
+    EspText.TextWrapped = true
+end
+
+function CreateEsp(Player)
+    local Box,BoxOutline,Name,HealthBar,HealthBarOutline = Drawing.new("Square"),Drawing.new("Square"),Drawing.new("Text"),Drawing.new("Square"),Drawing.new("Square")
+    local Updater = game:GetService("RunService").RenderStepped:Connect(function()
+    if Player ~= nil and Player:FindFirstChild("Humanoid") ~= nil and Player:FindFirstChild("HumanoidRootPart") ~= nil and Player.Humanoid.Health > 0 and Player:FindFirstChild("Head") ~= nil then
+        local Target2dPosition,IsVisible = workspace.CurrentCamera:WorldToViewportPoint(Player.HumanoidRootPart.Position)
+        local scale_factor = 1 / (Target2dPosition.Z * math.tan(math.rad(workspace.CurrentCamera.FieldOfView * 0.5)) * 2) * 100
+        local width, height = math.floor(40 * scale_factor), math.floor(60 * scale_factor)
+            if Config.Esp.Box then
+                Box.Visible = IsVisible
+                Box.Color = Config.Esp.BoxColor
+                Box.Size = Vector2.new(width,height)
+                Box.Position = Vector2.new(Target2dPosition.X - Box.Size.X / 2,Target2dPosition.Y - Box.Size.Y / 2)
+                Box.Filled = false
+                Box.Thickness = 1
+                Box.ZIndex = 69
+                if Config.Esp.BoxOutline then
+                    BoxOutline.Visible = IsVisible
+                    BoxOutline.Color = Config.Esp.BoxOutlineColor
+                    BoxOutline.Size = Vector2.new(width,height)
+                    BoxOutline.Position = Vector2.new(Target2dPosition.X - Box.Size.X / 2,Target2dPosition.Y - Box.Size.Y / 2)
+                    BoxOutline.Filled = false
+                    BoxOutline.Thickness = 3
+                    BoxOutline.ZIndex = 1
+                else
+                    BoxOutline.Visible = false
+                end
+            else
+                Box.Visible = false
+                BoxOutline.Visible = false
+            end
+            if Config.Esp.Names then
+                Name.Visible = IsVisible
+                Name.Color = Config.Esp.NamesColor
+                Name.Text = Player.Head.Nametag.tag.Text
+                Name.Center = true
+                Name.Outline = Config.Esp.NamesOutline
+                Name.OutlineColor = Config.Esp.NamesOutlineColor
+                Name.Position = Vector2.new(Target2dPosition.X,Target2dPosition.Y - height * 0.5 + -15)
+                Name.Font = Config.Esp.NamesFont
+                Name.Size = Config.Esp.NamesSize
+            else
+                Name.Visible = false
+            end
+            if Config.Esp.HealthBar then
+                HealthBarOutline.Visible = IsVisible
+                HealthBarOutline.Color = Color3.fromRGB(0,0,0)
+                HealthBarOutline.Filled = true
+                HealthBarOutline.ZIndex = 1
+
+                HealthBar.Visible = IsVisible
+                HealthBar.Color = Color3.fromRGB(255,0,0):lerp(Color3.fromRGB(0,255,0), Player:FindFirstChild("Humanoid").Health/Player:FindFirstChild("Humanoid").MaxHealth)
+                HealthBar.Thickness = 1
+                HealthBar.Filled = true
+                HealthBar.ZIndex = 69
+                if Config.Esp.HealthBarSide == "Left" then
+                    HealthBarOutline.Size = Vector2.new(2,height)
+                    HealthBarOutline.Position = Vector2.new(Target2dPosition.X - Box.Size.X / 2,Target2dPosition.Y - Box.Size.Y / 2) + Vector2.new(-3,0)
+                    
+                    HealthBar.Size = Vector2.new(1,-(HealthBarOutline.Size.Y - 2) * (Player:FindFirstChild("Humanoid").Health/Player:FindFirstChild("Humanoid").MaxHealth))
+                    HealthBar.Position = HealthBarOutline.Position + Vector2.new(1,-1 + HealthBarOutline.Size.Y)
+                elseif Config.Esp.HealthBarSide == "Bottom" then
+                    HealthBarOutline.Size = Vector2.new(width,3)
+                    HealthBarOutline.Position = Vector2.new(Target2dPosition.X - Box.Size.X / 2,Target2dPosition.Y - Box.Size.Y / 2) + Vector2.new(0,height + 2)
+
+                    HealthBar.Size = Vector2.new((HealthBarOutline.Size.X - 2) * (Player:FindFirstChild("Humanoid").Health/Player:FindFirstChild("Humanoid").MaxHealth),1)
+                    HealthBar.Position = HealthBarOutline.Position + Vector2.new(1,-1 + HealthBarOutline.Size.Y)
+                elseif Config.Esp.HealthBarSide == "Right" then
+                    HealthBarOutline.Size = Vector2.new(2,height)
+                    HealthBarOutline.Position = Vector2.new(Target2dPosition.X - Box.Size.X / 2,Target2dPosition.Y - Box.Size.Y / 2) + Vector2.new(width + 1,0)
+                    
+                    HealthBar.Size = Vector2.new(1,-(HealthBarOutline.Size.Y - 2) * (Player:FindFirstChild("Humanoid").Health/Player:FindFirstChild("Humanoid").MaxHealth))
+                    HealthBar.Position = HealthBarOutline.Position + Vector2.new(1,-1 + HealthBarOutline.Size.Y)
+                end
+            else
+                HealthBar.Visible = false
+                HealthBarOutline.Visible = false
+            end
+        else
+            Box.Visible = false
+            BoxOutline.Visible = false
+            Name.Visible = false
+            HealthBar.Visible = false
+            HealthBarOutline.Visible = false
+            if not Player then
+                Box:Remove()
+                BoxOutline:Remove()
+                Name:Remove()
+                HealthBar:Remove()
+                HealthBarOutline:Remove()
+                Updater:Disconnect()
+            end
+        end 
+    end)
+end
+for _,i in pairs(game:GetService("Workspace"):GetChildren()) do 
+    if i:FindFirstChild("Humanoid") and i ~= game.Players.LocalPlayer.Character and i:FindFirstChild("HumanoidRootPart") and i.Head:FindFirstChild("Nametag") then
+        CreateEsp(i)
+    end
+end
+
+game.Workspace.DescendantAdded:Connect(function(i)
+    if i:FindFirstChild("Humanoid") and i ~= game.Players.LocalPlayer.Character and i:FindFirstChild("HumanoidRootPart") and i.Head:FindFirstChild("Nametag") then
+        CreateEsp(i)
+    end
+end)
+--
+
+PlayerEspTab:AddToggle('BoxToggle', {
+    Text = 'Box',
+    Default = false,
+}):AddColorPicker('BoxColor',{
+    Default = Color3.fromRGB(255,255,255),
+    Title = 'Box Color',
+})
+Toggles.BoxToggle:OnChanged(function(Toggle)
+    Config.Esp.Box = Toggle
+    Config.Esp.BoxOutline = Toggle
+end)
+Options.BoxColor:OnChanged(function(Color)
+    Config.Esp.BoxColor = Color
+end)
+
+
+
+
+
+ObjectEspTab:AddButton({
+    Text = 'Nitrate',
+    Func = function()
+        _G.Settings = {
+    iron = {
+        enabled = false,
+        colour = Color3.fromRGB(199, 172, 120),
+    },
+    nitrate = {
+        enabled = true,
+        colour = Color3.fromRGB(248, 248, 248),
+    },
+    stone = {
+        enabled = false,
+        colour = Color3.fromRGB(205, 205, 205),
+    },
+}
+
+--//Ignore below (unless ur tryna skid lol)
+if game.PlaceId ~= 9570110925 then
+    print("Incorrect Game")
+    return
+end
+repeat
+    task.wait()
+until game:IsLoaded()
+local settings = _G.Settings
+if settings == nil then
+    return
+end
+local function get_text(text, position)
+    local distance = math.floor((position - workspace.Ignore.LocalCharacter.Middle.Position).Magnitude)
+    local final_text = tostring(text) .. " [" .. tostring(distance) .. "]"
+    return tostring(final_text)
+end
+local function worldtoviewport(position)
+    local a, b = workspace.CurrentCamera:WorldToViewportPoint(position)
+    return Vector2.new(a.X, a.Y), b
+end
+local function add_esp(part, text, colour, toggle)
+    if not toggle then
+        return
+    end
+    local drawing_text = Drawing.new("Text")
+    drawing_text.Outline = true
+    drawing_text.Center = true
+    drawing_text.Visible = false
+    drawing_text.Font = 3
+    drawing_text.Size = 13
+    drawing_text.Color = colour
+    local rendersteploop = game:GetService("RunService").Stepped:connect(function()
+        pcall(function()
+            if not part:IsDescendantOf(workspace) or not settings then
+                drawing_text:Remove()
+                rendersteploop:Disconnect()
+            end
+            local part_pos = part.Position
+            local screen_pos, on_screen = worldtoviewport(part_pos)
+            if not on_screen then
+                drawing_text.Visible = false
+                rendersteploop:Disconnect()
+            end
+            drawing_text.Visible = true
+            drawing_text.Text = get_text(text, part_pos)
+            drawing_text.Position = Vector2.new(screen_pos.X, screen_pos.Y - 250)
+        end)
+    end)
+end
+local function filter_models(v)
+    if (not v:IsA("Model")) then
+        return
+    end
+    local is_part = v:FindFirstChild("Part")
+    local children = v:GetChildren()
+    local child_amount = #children
+    if is_part then
+        if child_amount == 1 then
+            add_esp(is_part, "Stone", settings.stone.colour, settings.stone.enabled)
+        elseif child_amount == 2 then
+            for _, v in pairs(children) do
+                local brickcolor = v.BrickColor
+                local is_ore = v.ClassName == "MeshPart" and v.Name == "Part"
+                if is_ore then
+                    if brickcolor == BrickColor.new("Institutional white") then
+                        add_esp(v, "Nitrate", settings.nitrate.colour, settings.nitrate.enabled)
+                    elseif brickcolor == BrickColor.new("Burlap") then
+                        add_esp(v, "Iron", settings.iron.colour, settings.iron.enabled)
+                    end
+                end
+            end
+        end
+    end
+end
+for index, model in pairs(workspace:GetChildren()) do
+    filter_models(model)
+end
+workspace.ChildAdded:Connect(
+    function(model)
+        filter_models(model)
+    end
+)
+    end,
+    DoubleClick = false,
+    Tooltip = 'Shows Nitrate'
+})
+ObjectEspTab:AddButton({
+    Text = 'Iron',
+    Func = function()
+        _G.Settings = {
+    iron = {
+        enabled = true,
+        colour = Color3.fromRGB(199, 172, 120),
+    },
+    nitrate = {
+        enabled = false,
+        colour = Color3.fromRGB(248, 248, 248),
+    },
+    stone = {
+        enabled = false,
+        colour = Color3.fromRGB(205, 205, 205),
+    },
+}
+
+--//Ignore below (unless ur tryna skid lol)
+if game.PlaceId ~= 9570110925 then
+    print("Incorrect Game")
+    return
+end
+repeat
+    task.wait()
+until game:IsLoaded()
+local settings = _G.Settings
+if settings == nil then
+    return
+end
+local function get_text(text, position)
+    local distance = math.floor((position - workspace.Ignore.LocalCharacter.Middle.Position).Magnitude)
+    local final_text = tostring(text) .. " [" .. tostring(distance) .. "]"
+    return tostring(final_text)
+end
+local function worldtoviewport(position)
+    local a, b = workspace.CurrentCamera:WorldToViewportPoint(position)
+    return Vector2.new(a.X, a.Y), b
+end
+local function add_esp(part, text, colour, toggle)
+    if not toggle then
+        return
+    end
+    local drawing_text = Drawing.new("Text")
+    drawing_text.Outline = true
+    drawing_text.Center = true
+    drawing_text.Visible = false
+    drawing_text.Font = 3
+    drawing_text.Size = 13
+    drawing_text.Color = colour
+    local rendersteploop = game:GetService("RunService").Stepped:connect(function()
+        pcall(function()
+            if not part:IsDescendantOf(workspace) or not settings then
+                drawing_text:Remove()
+                rendersteploop:Disconnect()
+            end
+            local part_pos = part.Position
+            local screen_pos, on_screen = worldtoviewport(part_pos)
+            if not on_screen then
+                drawing_text.Visible = false
+                rendersteploop:Disconnect()
+            end
+            drawing_text.Visible = true
+            drawing_text.Text = get_text(text, part_pos)
+            drawing_text.Position = Vector2.new(screen_pos.X, screen_pos.Y - 250)
+        end)
+    end)
+end
+local function filter_models(v)
+    if (not v:IsA("Model")) then
+        return
+    end
+    local is_part = v:FindFirstChild("Part")
+    local children = v:GetChildren()
+    local child_amount = #children
+    if is_part then
+        if child_amount == 1 then
+            add_esp(is_part, "Stone", settings.stone.colour, settings.stone.enabled)
+        elseif child_amount == 2 then
+            for _, v in pairs(children) do
+                local brickcolor = v.BrickColor
+                local is_ore = v.ClassName == "MeshPart" and v.Name == "Part"
+                if is_ore then
+                    if brickcolor == BrickColor.new("Institutional white") then
+                        add_esp(v, "Nitrate", settings.nitrate.colour, settings.nitrate.enabled)
+                    elseif brickcolor == BrickColor.new("Burlap") then
+                        add_esp(v, "Iron", settings.iron.colour, settings.iron.enabled)
+                    end
+                end
+            end
+        end
+    end
+end
+for index, model in pairs(workspace:GetChildren()) do
+    filter_models(model)
+end
+workspace.ChildAdded:Connect(
+    function(model)
+        filter_models(model)
+    end
+)
+    end,
+    DoubleClick = false,
+    Tooltip = 'Shows Iron'
+})
+ObjectEspTab:AddButton({
+    Text = 'Stone',
+    Func = function()
+        _G.Settings = {
+    iron = {
+        enabled = false,
+        colour = Color3.fromRGB(199, 172, 120),
+    },
+    nitrate = {
+        enabled = false,
+        colour = Color3.fromRGB(248, 248, 248),
+    },
+    stone = {
+        enabled = true,
+        colour = Color3.fromRGB(205, 205, 205),
+    },
+}
+
+--//Ignore below (unless ur tryna skid lol)
+if game.PlaceId ~= 9570110925 then
+    print("Incorrect Game")
+    return
+end
+repeat
+    task.wait()
+until game:IsLoaded()
+local settings = _G.Settings
+if settings == nil then
+    return
+end
+local function get_text(text, position)
+    local distance = math.floor((position - workspace.Ignore.LocalCharacter.Middle.Position).Magnitude)
+    local final_text = tostring(text) .. " [" .. tostring(distance) .. "]"
+    return tostring(final_text)
+end
+local function worldtoviewport(position)
+    local a, b = workspace.CurrentCamera:WorldToViewportPoint(position)
+    return Vector2.new(a.X, a.Y), b
+end
+local function add_esp(part, text, colour, toggle)
+    if not toggle then
+        return
+    end
+    local drawing_text = Drawing.new("Text")
+    drawing_text.Outline = true
+    drawing_text.Center = true
+    drawing_text.Visible = false
+    drawing_text.Font = 3
+    drawing_text.Size = 13
+    drawing_text.Color = colour
+    local rendersteploop = game:GetService("RunService").Stepped:connect(function()
+        pcall(function()
+            if not part:IsDescendantOf(workspace) or not settings then
+                drawing_text:Remove()
+                rendersteploop:Disconnect()
+            end
+            local part_pos = part.Position
+            local screen_pos, on_screen = worldtoviewport(part_pos)
+            if not on_screen then
+                drawing_text.Visible = false
+                rendersteploop:Disconnect()
+            end
+            drawing_text.Visible = true
+            drawing_text.Text = get_text(text, part_pos)
+            drawing_text.Position = Vector2.new(screen_pos.X, screen_pos.Y - 250)
+        end)
+    end)
+end
+local function filter_models(v)
+    if (not v:IsA("Model")) then
+        return
+    end
+    local is_part = v:FindFirstChild("Part")
+    local children = v:GetChildren()
+    local child_amount = #children
+    if is_part then
+        if child_amount == 1 then
+            add_esp(is_part, "Stone", settings.stone.colour, settings.stone.enabled)
+        elseif child_amount == 2 then
+            for _, v in pairs(children) do
+                local brickcolor = v.BrickColor
+                local is_ore = v.ClassName == "MeshPart" and v.Name == "Part"
+                if is_ore then
+                    if brickcolor == BrickColor.new("Institutional white") then
+                        add_esp(v, "Nitrate", settings.nitrate.colour, settings.nitrate.enabled)
+                    elseif brickcolor == BrickColor.new("Burlap") then
+                        add_esp(v, "Iron", settings.iron.colour, settings.iron.enabled)
+                    end
+                end
+            end
+        end
+    end
+end
+for index, model in pairs(workspace:GetChildren()) do
+    filter_models(model)
+end
+workspace.ChildAdded:Connect(
+    function(model)
+        filter_models(model)
+    end
+)
+    end,
+    DoubleClick = false,
+    Tooltip = 'Shows Stone'
+})
+--
+local CombatGroupTab = CombatTab:AddLeftTabbox('Aimlock')
+local AimLockTab = CombatGroupTab:AddTab('Aimlock')
+local GunmodsTab = CombatGroupTab:AddTab('Gunmods')
+
+
+
+
+AimLockTab:AddToggle('MyToggle', {
+    Text = 'Toggle Aimbot',
+    Default = false, -- Default value (true / false)
+    Tooltip = 'Enables Aimbot', -- Information shown when you hover over the toggle
+})
+
+Toggles.MyToggle:OnChanged(function(Bing)
+    -- here we get our toggle object & then get its value
+    AimbotEnabled = Bing
+end)
+
+AimLockTab:AddToggle('FOV2', {
+    Text = 'Show FOV',
+    Default = false,
+    Tooltip = 'This Will Show FOV',
+})
+Toggles.FOV2:OnChanged(function(BingChillin)
+    fovcircle2.Visible = BingChillin
+end)
+AimLockTab:AddToggle('Prediction', {
+    Text = 'Prediction',
+    Default = false,
+    Tooltip = 'This Will Enable Prediction',
+})
+Toggles.Prediction:OnChanged(function(BingChillin)
+    MovementPrediction = BingChillin
+end)
+
+
+AimLockTab:AddSlider('FOVSIZE2', {
+    Text = 'FOV Size',
+    Default = 0,
+    Min = 0,
+    Max = 500,
+    Rounding = 2,
+
+    Compact = false, -- If set to true, then it will hide the label
+})
+Options.FOVSIZE2:OnChanged(function(BingChillin)
+    fovcircle2.Radius = BingChillin
+end)
+
+
+AimLockTab:AddSlider('Predictions', {
+    Text = 'Prediction Amount',
+    Default = 0,
+    Min = 0,
+    Max = 5,
+    Rounding = 1,
+
+    Compact = false, -- If set to true, then it will hide the label
+})
+Options.Predictions:OnChanged(function(BingChillin)
+    PredictionSmoothness = BingChillin
+end)
+
+
+
+AimLockTab:AddDropdown('MyDropdown', {
+    Values = { 'Head','UpperTorso','HumanoidRootPart' },
+    Default = 1,
+    Multi = false,
+
+    Text = 'Aimpart',
+    Tooltip = 'This Is Your Aimbot Part', -- Information shown when you hover over the textbox
+})
+
+
+
+
+
+local PipePistolDerect = require(game.ReplicatedStorage.ItemConfigs.PipePistol)
+local PipeSMGDerect = require(game.ReplicatedStorage.ItemConfigs.PipeSMG)
+local USPDerect = require(game.ReplicatedStorage.ItemConfigs.USP)
+local HMARDerect = require(game.ReplicatedStorage.ItemConfigs.HMAR)
+local CrossbowDerect = require(game.ReplicatedStorage.ItemConfigs.Crossbow)
+local BowDerect = require(game.ReplicatedStorage.ItemConfigs.Bow)
+local BlunderbussDerect = require(game.ReplicatedStorage.ItemConfigs.Blunderbuss)
+local BowDerect = require(game.ReplicatedStorage.ItemConfigs.Bow)
+local DerectCrossbow = require(game.ReplicatedStorage.ItemConfigs.Crossbow)
+local KatanaDerect = require(game.ReplicatedStorage.ItemConfigs.Katana)
+local WoodenHammerDerect = require(game.ReplicatedStorage.ItemConfigs.Hammer)
+local StoneHammerDerect = require(game.ReplicatedStorage.ItemConfigs.StoneHammer)
+local IronHammerDerect = require(game.ReplicatedStorage.ItemConfigs.IronHammer)
+local SteelHammerDerect = require(game.ReplicatedStorage.ItemConfigs.SteelHammer)
+--
+
+GunmodsTab:AddToggle('Gnek', {
+    Text = 'Eoka Good',
+    Default = false,
+    Tooltip = 'No scatter for eoka'
+}):OnChanged(function(T)
+    if T == true then
+        BlunderbussDerect.accuracy = 999999999
+        BlunderbussDerect.recoilPattern = { { 0, 0 } }
+    elseif T == false then 
+        BlunderbussDerect.accuracy = 1200
+        BlunderbussDerect.recoilPattern = { { 0, 2 } }
+    end
+end)
+
+
+
+GunmodsTab:AddToggle('Gnnd', {
+    Text = "No Drop",
+    Default = false,
+    Tooltip = "Dont bullet drop",
+}):OnChanged(function(T)
+    if T == true then
+        BowDerect.projectileDrop = 1.5
+        PipePistolDerect.projectileDrop = 1.5
+        PipeSMGDerect.projectileDrop = 1.5
+        USPDerect.projectileDrop = 1.5
+        HMARDerect.projectileDrop = 1.5
+        DerectCrossbow.projectileDrop = 1.5
+    elseif T == false then
+        BowDerect.projectileDrop = 3
+        PipePistolDerect.projectileDrop = 3
+        PipeSMGDerect.projectileDrop = 3
+        USPDerect.projectileDrop = 2.5
+        HMARDerect.projectileDrop = 4
+        DerectCrossbow.projectileDrop = 3.25
+    end
+end)
+
+
+
+GunmodsTab:AddToggle('Gnfh', {
+    Text = "Fast Hammers",
+    Default = false,
+    Tooltip = "All hammers attack faster",
+}):OnChanged(function(T)
+    if T == true then
+        WoodenHammerDerect.attackCooldown = 0.7
+        StoneHammerDerect.attackCooldown = 0.7
+        IronHammerDerect.attackCooldown = 0.7
+        SteelHammerDerect.attackCooldown = 0.7
+    elseif T == false then
+        WoodenHammerDerect.attackCooldown = 1
+        StoneHammerDerect.attackCooldown = 1
+        IronHammerDerect.attackCooldown = 1
+        SteelHammerDerect.attackCooldown = 1
+    end
+end)
+
+local HedsOn = Instance.new("Part")
+HedsOn.Name = "HedsOn"
+HedsOn.Anchored = false
+HedsOn.CanCollide = false
+HedsOn.Transparency = 1
+HedsOn.Size = Vector3.new(4, 7, 3)
+HedsOn.Parent = game.ReplicatedStorage
+
+local SilentAim = CombatTab:AddRightGroupbox('Silent Aim (Guns)')-- This should print to the console: "My toggle state changed! New value: false"
+SilentAim:AddToggle('Silent1', {
+    Text = 'Enable Silent Aim',
+    Default = false,
+    Tooltip = 'This Will Enable Silent Aim',
+})
+Toggles.Silent1:OnChanged(function()
+    _SilentAim["Enabled"] = Toggles.Silent1.Value
+end)
+
+
+SilentAim:AddToggle('FOV', {
+    Text = 'Show FOV',
+    Default = false,
+    Tooltip = 'This Will Show FOV',
+})
+Toggles.FOV:OnChanged(function(BingChillin)
+    fovcircle.Visible = BingChillin
+end)
+
+
+SilentAim:AddSlider('FOVSIZE', {
+    Text = 'FOV Size',
+    Default = 0,
+    Min = 0,
+    Max = 500,
+    Rounding = 2,
+
+    Compact = false, -- If set to true, then it will hide the label
+})
+Options.FOVSIZE:OnChanged(function(BingChillin)
+    fovcircle.Radius = BingChillin
+end)
+
+-- UI
+MenuGroup:AddLabel('Menu bind'):AddKeyPicker('MenuKeybind', { Default = 'RightShift', NoUI = true, Text = 'Menu keybind' }) 
+
+Library.ToggleKeybind = Options.MenuKeybind
+
+MenuGroup:AddToggle('WMTT', {
+    Text = 'Watermark',
+    Default = true,
+    Tooltip = 'Off/On Watermark',
+})
+Toggles.WMTT:OnChanged(function(Toggle)
+    Library:SetWatermarkVisibility(Toggle)
+end)
+
+MenuGroup:AddToggle('KBTT', {
+    Text = 'Keybind',
+    Default = true,
+    Tooltip = 'Off/On Keybind',
+})
+Toggles.KBTT:OnChanged(function(Toggle)
+    Library.KeybindFrame.Visible = Toggle
+end)
+
+Library.KeybindFrame.Visible = true;
+
+ThemeManager:SetLibrary(Library)
+SaveManager:SetLibrary(Library)
+SaveManager:IgnoreThemeSettings() 
+SaveManager:SetIgnoreIndexes({ 'MenuKeybind' })
+ThemeManager:SetFolder('MyScriptHub')
+SaveManager:SetFolder('MyScriptHub/specific-game')
+SaveManager:BuildConfigSection(UITab) 
+ThemeManager:ApplyToTab(UITab)
+Library.KeybindFrame.Visible = true; -- todo: add a function for this
+
+Library:OnUnload(function()
+    print('Unloaded!')
+    Library.Unloaded = true
+end)
+
+-- UI Settings
+local MenuGroup = Tabs['UI Settings']:AddLeftGroupbox('Menu')
+
+-- I set NoUI so it does not show up in the keybinds menu
+MenuGroup:AddButton('Unload', function() Library:Unload() end)
+MenuGroup:AddLabel('Menu bind'):AddKeyPicker('MenuKeybind', { Default = 'End', NoUI = true, Text = 'Menu keybind' })
+
+Library.ToggleKeybind = Options.MenuKeybind -- Allows you to have a custom keybind for the menu
+
+-- Addons:
+-- SaveManager (Allows you to have a configuration system)
+-- ThemeManager (Allows you to have a menu theme system)
+
+-- Hand the library over to our managers
+ThemeManager:SetLibrary(Library)
+SaveManager:SetLibrary(Library)
+
+-- Ignore keys that are used by ThemeManager.
+-- (we dont want configs to save themes, do we?)
+SaveManager:IgnoreThemeSettings()
+
+-- Adds our MenuKeybind to the ignore list
+-- (do you want each config to have a different menu key? probably not.)
+SaveManager:SetIgnoreIndexes({ 'MenuKeybind' })
+
+-- use case for doing it this way:
+-- a script hub could have themes in a global folder
+-- and game configs in a separate folder per game
+ThemeManager:SetFolder('MyScriptHub')
+SaveManager:SetFolder('MyScriptHub/specific-game')
+
+-- Builds our config menu on the right side of our tab
+SaveManager:BuildConfigSection(Tabs['UI Settings'])
+
+-- Builds our theme menu (with plenty of built in themes) on the left side
+-- NOTE: you can also call ThemeManager:ApplyToGroupbox to add it to a specific groupbox
+ThemeManager:ApplyToTab(Tabs['UI Settings'])
+
+-- You can use the SaveManager:LoadAutoloadConfig() to load a config
+-- which has been marked to be one that auto loads!
+end
+
+
+
+
+
+
 
 
