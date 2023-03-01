@@ -1,3 +1,7 @@
+--Crack this shit if you want its detected and not that good--
+
+
+
 if game.PlaceId == 9570110925 then
 
 
